@@ -3579,3 +3579,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17Feb2025 22:30:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Monster Hunter]
 [17Feb2025 22:34:45.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Sweet Dreams]
 [17Feb2025 22:36:19.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Acquire Hardware]
+[17Feb2025 22:59:55.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[17Feb2025 22:59:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[17Feb2025 23:02:39.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Feb2025 23:02:39.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Feb2025 23:02:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Feb2025 23:02:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Feb2025 23:02:40.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
