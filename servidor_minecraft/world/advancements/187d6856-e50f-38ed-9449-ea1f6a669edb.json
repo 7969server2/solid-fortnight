@@ -688,15 +688,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
-    "criteria": {
-      "has_diamond_tier_upgrade": "2025-02-22 01:47:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/dragon_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-22 01:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2025-02-22 01:47:05 +0000"
     },
     "done": true
   },
@@ -850,15 +850,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-02-22 01:49:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/bee_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 01:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-22 01:49:34 +0000"
     },
     "done": true
   },

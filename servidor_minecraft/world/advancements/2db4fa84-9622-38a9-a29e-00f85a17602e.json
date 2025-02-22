@@ -1968,6 +1968,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/exorcism": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 02:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-02-21 23:29:12 +0000"
