@@ -5752,3 +5752,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [22Feb2025 03:03:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] https://kz.com.pe/producto/kz-eda/
 [22Feb2025 03:03:35.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> https://kz.com.pe/producto/kz-eda/
 [22Feb2025 03:03:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pene
+[22Feb2025 03:07:32.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 03:07:32.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 03:12:32.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 03:12:32.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 03:12:37.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[22Feb2025 03:16:08.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: King_Dem0nd lost connection: Disconnected
+[22Feb2025 03:16:08.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd left the game
