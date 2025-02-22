@@ -671,6 +671,7 @@
       "minecraft:skeleton": "2025-02-21 23:01:02 +0000",
       "minecraft:hoglin": "2025-02-22 04:46:12 +0000",
       "minecraft:spider": "2025-02-21 22:58:05 +0000",
+      "minecraft:piglin_brute": "2025-02-22 04:47:36 +0000",
       "minecraft:creeper": "2025-02-22 02:09:38 +0000",
       "minecraft:wither_skeleton": "2025-02-22 03:36:26 +0000",
       "minecraft:piglin": "2025-02-22 03:33:10 +0000",
@@ -1555,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-22 04:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-21 23:11:32 +0000"
@@ -1612,6 +1619,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-21 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-22 04:55:59 +0000"
     },
     "done": true
   },
@@ -2568,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-22 04:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-22 00:33:33 +0000"
@@ -3012,6 +3031,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-22 04:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-22 04:46:27 +0000"
@@ -3051,6 +3076,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-22 01:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-22 04:48:12 +0000"
     },
     "done": true
   },
