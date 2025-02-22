@@ -3617,3 +3617,62 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [22Feb2025 03:41:06.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [22Feb2025 03:44:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Cover Me with Diamonds]
 [22Feb2025 03:54:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Hidden in the Depths]
+[22Feb2025 04:14:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Hidden in the Depths]
+[22Feb2025 04:15:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[22Feb2025 04:15:26.475] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[22Feb2025 04:15:26.475] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[22Feb2025 04:22:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[22Feb2025 04:22:15.565] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[22Feb2025 04:22:15.566] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[22Feb2025 04:22:21.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Postmortal]
+[22Feb2025 04:22:21.066] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[22Feb2025 04:22:35.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[22Feb2025 04:22:35.364] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[22Feb2025 04:22:35.365] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[22Feb2025 04:23:15.570] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID 42b91eca-11b5-41f2-8f31-37d0db5e176f
+[22Feb2025 04:23:15.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -963 Y: 33 Z: -602
+[22Feb2025 04:23:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Strong or Careful]
+[22Feb2025 04:23:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb tried to swim in lava
+[22Feb2025 04:23:32.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to King_Dem0nd
+[22Feb2025 04:23:35.369] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for King_Dem0nd with unique ID 0ea1ec09-c51d-4ecf-957f-50107d3a794d
+[22Feb2025 04:23:35.370] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -973 Y: 33 Z: -603
+[22Feb2025 04:23:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has reached the goal [Strong or Careful]
+[22Feb2025 04:23:35.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd burned to death
+[22Feb2025 04:23:35.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Your First Grave]
+[22Feb2025 04:23:50.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported King_Dem0nd to arturrssb
+[22Feb2025 04:23:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Here They Come]
+[22Feb2025 04:24:12.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Discreet Search]
+[22Feb2025 04:24:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:totem'
+[22Feb2025 04:24:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... arturrsb totem<--[HERE]
+[22Feb2025 04:25:31.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[22Feb2025 04:25:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Totem of Undying] to arturrssb
+[22Feb2025 04:29:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[22Feb2025 04:29:39.267] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[22Feb2025 04:29:39.268] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[22Feb2025 04:29:45.469] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID 423299f3-33e7-4c9c-8828-563b72cf5443
+[22Feb2025 04:29:45.470] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1224 Y: 58 Z: -751
+[22Feb2025 04:29:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb tried to swim in lava
+[22Feb2025 04:29:45.476] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[22Feb2025 04:30:45.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -1227.500000, 62.000000, -750.500000
+[22Feb2025 04:30:56.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: King_Dem0nd lost connection: Disconnected
+[22Feb2025 04:30:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd left the game
+[22Feb2025 04:32:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -1319.500000, 60.000000, 411.500000
+[22Feb2025 04:32:20.686] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35c79df
+[22Feb2025 04:32:20.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: King_Dem0nd[/127.136.161.139:60195] logged in with entity id 32381 at (-1222.8511565796775, 40.0, -920.130741457246)
+[22Feb2025 04:32:20.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd joined the game
+[22Feb2025 04:32:20.703] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to King_Dem0nd
+[22Feb2025 04:32:20.703] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to King_Dem0nd
+[22Feb2025 04:32:25.767] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from King_Dem0nd : SUCCESS
+[22Feb2025 04:32:25.768] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Feb2025 04:32:25.768] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from King_Dem0nd : SUCCESS
+[22Feb2025 04:32:25.768] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Feb2025 04:33:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[22Feb2025 04:33:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode arturrssb spectator<--[HERE]
+[22Feb2025 04:33:24.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[22Feb2025 04:33:24.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode arturrssb spectate<--[HERE]
+[22Feb2025 04:33:32.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[22Feb2025 04:33:32.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode arturrssb 3<--[HERE]
+[22Feb2025 04:33:39.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[22Feb2025 04:34:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[22Feb2025 04:35:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[22Feb2025 04:36:48.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode

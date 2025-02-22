@@ -1155,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-22 04:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 22:46:10 +0000"
@@ -1310,6 +1316,7 @@
       "minecraft:taiga": "2025-02-22 01:28:15 +0000",
       "minecraft:birch_forest": "2025-02-21 23:57:21 +0000",
       "minecraft:beach": "2025-02-21 22:15:51 +0000",
+      "minecraft:sparse_jungle": "2025-02-22 04:30:45 +0000",
       "minecraft:river": "2025-02-21 22:28:59 +0000",
       "minecraft:cold_ocean": "2025-02-21 22:16:42 +0000",
       "minecraft:forest": "2025-02-21 23:54:54 +0000",
@@ -1472,6 +1479,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-22 04:17:00 +0000",
       "minecraft:nether_wastes": "2025-02-22 03:36:50 +0000",
       "minecraft:soul_sand_valley": "2025-02-22 03:38:24 +0000",
       "minecraft:basalt_deltas": "2025-02-22 03:37:16 +0000"
@@ -1577,6 +1585,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-02-22 01:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-22 04:13:25 +0000"
     },
     "done": true
   },
@@ -1787,6 +1801,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 22:08:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 04:23:57 +0000"
     },
     "done": true
   },
@@ -2118,6 +2138,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 04:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-21 22:06:52 +0000"
@@ -2265,6 +2291,12 @@
   "minecraft:recipes/travelersbackpack/sandstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 04:24:12 +0000"
     },
     "done": true
   },
