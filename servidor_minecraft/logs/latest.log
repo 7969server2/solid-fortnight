@@ -3591,3 +3591,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [22Feb2025 03:12:37.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [22Feb2025 03:16:08.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: King_Dem0nd lost connection: Disconnected
 [22Feb2025 03:16:08.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd left the game
+[22Feb2025 03:19:35.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2dcb081e
+[22Feb2025 03:19:35.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: King_Dem0nd[/127.136.161.139:35447] logged in with entity id 11359 at (-1086.6365148477416, -36.0, 53.69999998807907)
+[22Feb2025 03:19:35.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd joined the game
+[22Feb2025 03:19:35.644] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to King_Dem0nd
+[22Feb2025 03:19:35.644] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to King_Dem0nd
+[22Feb2025 03:19:40.936] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from King_Dem0nd : SUCCESS
+[22Feb2025 03:19:40.936] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Feb2025 03:19:40.936] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from King_Dem0nd : SUCCESS
+[22Feb2025 03:19:40.937] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Feb2025 03:22:12.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Magic Writing]
+[22Feb2025 03:24:43.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
