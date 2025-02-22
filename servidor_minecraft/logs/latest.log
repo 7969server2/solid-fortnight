@@ -3680,3 +3680,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [22Feb2025 04:41:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Hot Tourist Destinations]
 [22Feb2025 04:47:10.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Those Were the Days]
 [22Feb2025 04:48:02.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [War Pigs]
+[22Feb2025 05:00:03.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported King_Dem0nd to arturrssb
+[22Feb2025 05:06:01.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[22Feb2025 05:06:01.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[22Feb2025 05:06:09.120] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6db7b27a
+[22Feb2025 05:06:09.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.26.240.154:40105] logged in with entity id 41137 at (-2640.59681234458, 64.0, -867.4373050290332)
+[22Feb2025 05:06:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[22Feb2025 05:06:09.137] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[22Feb2025 05:06:09.137] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[22Feb2025 05:06:10.821] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[22Feb2025 05:06:10.822] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Feb2025 05:06:10.822] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[22Feb2025 05:06:10.822] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
