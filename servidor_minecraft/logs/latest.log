@@ -3602,3 +3602,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [22Feb2025 03:19:40.937] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [22Feb2025 03:22:12.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Magic Writing]
 [22Feb2025 03:24:43.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[22Feb2025 03:30:32.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [We Need to Go Deeper]
+[22Feb2025 03:34:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [A Terrible Fortress]
+[22Feb2025 03:34:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <King_Dem0nd> [name:"LAVA", x:-165, y:64, z:51, dim:minecraft:overworld]
+[22Feb2025 03:35:26.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <King_Dem0nd> [name:"FORTALESA", x:-153, y:73, z:-175, dim:minecraft:the_nether]
+[22Feb2025 03:35:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <King_Dem0nd> [name:"PORTAL", x:-153, y:66, z:58, dim:minecraft:the_nether]
+[22Feb2025 03:36:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Magic Writing]
+[22Feb2025 03:36:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [We Need to Go Deeper]
+[22Feb2025 03:37:04.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Into Fire]
+[22Feb2025 03:38:54.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [A Terrible Fortress]
+[22Feb2025 03:39:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Into Fire]
+[22Feb2025 03:41:03.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[22Feb2025 03:41:05.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[22Feb2025 03:41:06.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[22Feb2025 03:44:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Cover Me with Diamonds]
