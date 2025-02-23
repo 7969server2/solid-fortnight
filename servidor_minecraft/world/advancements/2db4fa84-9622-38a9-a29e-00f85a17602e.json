@@ -930,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-23 23:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-21 22:52:34 +0000"
@@ -1919,6 +1925,12 @@
   "minecraft:recipes/travelersbackpack/enderman_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-23 23:34:40 +0000"
     },
     "done": true
   },
@@ -3340,6 +3352,18 @@
   "minecraft:recipes/travelersbackpack/quartz_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-23 23:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 23:37:44 +0000"
     },
     "done": true
   },

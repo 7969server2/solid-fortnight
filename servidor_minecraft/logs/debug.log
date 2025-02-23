@@ -5592,3 +5592,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [23Feb2025 23:29:37.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Those Were the Days]
 [23Feb2025 23:30:49.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 23:30:49.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 23:34:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [War Pigs]
+[23Feb2025 23:34:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [To be or not to be]
+[23Feb2025 23:35:49.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 23:35:49.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 23:40:49.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 23:40:49.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
