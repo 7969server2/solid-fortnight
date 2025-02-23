@@ -3525,3 +3525,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [23Feb2025 22:36:59.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [23Feb2025 22:37:14.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Not even afraid of death]
 [23Feb2025 22:37:14.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Back to childhood]
+[23Feb2025 22:42:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] elpepe
+[23Feb2025 22:43:23.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Feb2025 22:43:23.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: config<--[HERE]
+[23Feb2025 22:48:09.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Feb2025 22:48:09.839] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[23Feb2025 22:48:09.844] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[23Feb2025 22:48:33.254] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID e33a03e3-41cb-4896-bdc4-e857c15705ab
+[23Feb2025 22:48:33.256] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3342 Y: 68 Z: -633
+[23Feb2025 22:48:33.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was doomed to fall
+[23Feb2025 22:49:11.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[23Feb2025 22:49:11.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode arturrssb spectator<--[HERE]
+[23Feb2025 22:49:20.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[23Feb2025 22:51:02.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[23Feb2025 22:58:13.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Ice Bucket Challenge]

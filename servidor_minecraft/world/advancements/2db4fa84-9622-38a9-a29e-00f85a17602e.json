@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-23 22:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/brown_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-21 22:12:33 +0000"
@@ -641,6 +647,7 @@
       "minecraft:blaze": "2025-02-22 03:39:52 +0000",
       "minecraft:skeleton": "2025-02-21 22:35:27 +0000",
       "minecraft:ravager": "2025-02-22 00:08:47 +0000",
+      "minecraft:hoglin": "2025-02-23 22:55:16 +0000",
       "minecraft:vindicator": "2025-02-22 00:07:03 +0000",
       "minecraft:magma_cube": "2025-02-22 04:04:51 +0000",
       "minecraft:spider": "2025-02-21 22:38:30 +0000",
@@ -1878,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 22:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-21 23:05:55 +0000"
@@ -1919,6 +1932,7 @@
       "cooked_porkchop": "2025-02-22 00:09:13 +0000",
       "cooked_mutton": "2025-02-21 22:11:36 +0000",
       "cooked_beef": "2025-02-21 22:17:23 +0000",
+      "baked_potato": "2025-02-23 22:44:46 +0000",
       "bread": "2025-02-21 23:04:41 +0000",
       "cooked_chicken": "2025-02-21 22:39:16 +0000"
     },
@@ -2041,6 +2055,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 22:48:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-02-23 22:37:14 +0000"
     },
     "done": true
   },
@@ -2257,6 +2277,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 22:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 22:58:13 +0000"
     },
     "done": true
   },
@@ -2812,6 +2838,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-02-23 22:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/dragon_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"
@@ -2821,6 +2853,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-23 22:58:13 +0000"
     },
     "done": true
   },
