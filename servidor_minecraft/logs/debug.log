@@ -5392,3 +5392,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [23Feb2025 17:36:16.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 17:36:16.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Feb2025 17:37:33.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] t
+[23Feb2025 17:41:16.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 17:41:16.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 17:46:16.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 17:46:16.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 17:47:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Feb2025 17:47:29.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Say gggg<--[HERE]
+[23Feb2025 17:47:47.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] h
