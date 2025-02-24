@@ -3543,3 +3543,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [23Feb2025 23:34:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [War Pigs]
 [23Feb2025 23:34:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [To be or not to be]
 [23Feb2025 23:43:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Who is Cutting Onions?]
+[23Feb2025 23:57:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
+[23Feb2025 23:58:15.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Subspace Bubble]
+[23Feb2025 23:58:15.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
