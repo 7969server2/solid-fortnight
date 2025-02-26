@@ -3530,3 +3530,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [26Feb2025 17:31:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [26Feb2025 17:31:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cls<--[HERE]
 [26Feb2025 17:36:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] so
+[26Feb2025 17:44:47.239] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42fc2f25
+[26Feb2025 17:44:47.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wetto[/127.27.202.134:59751] logged in with entity id 535 at (-3.910069960333156, 64.0, -1.300000011920929)
+[26Feb2025 17:44:47.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wetto joined the game
+[26Feb2025 17:44:47.299] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to wetto
+[26Feb2025 17:44:47.300] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to wetto
+[26Feb2025 17:44:48.256] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from wetto : SUCCESS
+[26Feb2025 17:44:48.256] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[26Feb2025 17:44:48.290] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from wetto : SUCCESS
+[26Feb2025 17:44:48.290] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[26Feb2025 17:48:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[26Feb2025 17:48:19.119] [Server thread/WARN] [tombstone/]: The death event of the player wetto was canceled by another mod
+[26Feb2025 17:48:19.123] [Server thread/INFO] [tombstone/]: The player wetto has successfully been saved
+[26Feb2025 17:48:34.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wetto fell from a high place
