@@ -3526,3 +3526,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [26Feb2025 17:27:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wetto left the game
 [26Feb2025 17:27:16.592] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [26Feb2025 17:27:44.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hio
+[26Feb2025 17:31:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[26Feb2025 17:31:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Feb2025 17:31:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cls<--[HERE]
+[26Feb2025 17:36:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] so
