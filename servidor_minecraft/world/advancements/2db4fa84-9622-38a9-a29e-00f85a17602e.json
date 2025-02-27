@@ -3075,6 +3075,12 @@
     },
     "done": true
   },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-27 14:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-22 01:23:21 +0000"

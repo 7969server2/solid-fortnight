@@ -4294,3 +4294,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [27Feb2025 13:41:51.078] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [27Feb2025 13:42:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] server activated
 [27Feb2025 13:50:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] h
+[27Feb2025 14:07:06.416] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4efd10d7
+[27Feb2025 14:07:06.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.1.234.217:51901] logged in with entity id 434 at (-34772.98938541076, 63.0, -7866.145836509019)
+[27Feb2025 14:07:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[27Feb2025 14:07:06.533] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[27Feb2025 14:07:06.534] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[27Feb2025 14:07:08.860] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[27Feb2025 14:07:08.860] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[27Feb2025 14:07:08.861] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[27Feb2025 14:07:08.861] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[27Feb2025 14:07:08.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[27Feb2025 14:07:34.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[27Feb2025 14:07:34.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
