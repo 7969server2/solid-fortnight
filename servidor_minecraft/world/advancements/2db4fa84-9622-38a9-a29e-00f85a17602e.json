@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 22:46:10 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/travelersbackpack/bat_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
     },
     "done": true
   },
@@ -212,6 +224,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-21 22:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
     },
     "done": true
   },
@@ -725,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-02-21 22:38:31 +0000"
@@ -1029,6 +1053,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-22 03:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
     },
     "done": true
   },
@@ -1422,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-02-21 22:08:25 +0000"
@@ -1556,22 +1592,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-28 02:04:50 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-28 01:53:27 +0000",
       "minecraft:taiga": "2025-02-22 01:28:15 +0000",
+      "minecraft:frozen_river": "2025-02-28 02:00:38 +0000",
       "minecraft:sunflower_plains": "2025-02-28 01:42:21 +0000",
       "minecraft:birch_forest": "2025-02-21 23:57:21 +0000",
       "minecraft:savanna_plateau": "2025-02-28 01:30:21 +0000",
       "minecraft:beach": "2025-02-21 22:15:51 +0000",
       "minecraft:sparse_jungle": "2025-02-22 04:30:45 +0000",
       "minecraft:river": "2025-02-21 22:28:59 +0000",
+      "minecraft:snowy_plains": "2025-02-28 02:00:54 +0000",
       "minecraft:stony_shore": "2025-02-28 01:56:07 +0000",
+      "minecraft:snowy_taiga": "2025-02-28 02:00:51 +0000",
+      "minecraft:grove": "2025-02-28 02:07:09 +0000",
+      "minecraft:jagged_peaks": "2025-02-28 02:05:35 +0000",
       "minecraft:cold_ocean": "2025-02-21 22:16:42 +0000",
       "minecraft:forest": "2025-02-21 23:54:54 +0000",
       "minecraft:lush_caves": "2025-02-22 01:27:21 +0000",
       "minecraft:deep_cold_ocean": "2025-02-22 02:05:26 +0000",
+      "minecraft:frozen_ocean": "2025-02-28 01:59:54 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-28 01:58:00 +0000",
       "minecraft:ocean": "2025-02-24 00:04:11 +0000",
       "minecraft:jungle": "2025-02-28 01:28:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-28 01:54:38 +0000",
+      "minecraft:snowy_beach": "2025-02-28 02:00:41 +0000",
       "minecraft:flower_forest": "2025-02-28 01:43:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 01:00:47 +0000",
       "minecraft:savanna": "2025-02-28 01:29:40 +0000",
@@ -2207,6 +2252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:35 +0000"
@@ -2246,6 +2297,12 @@
   "minecraft:recipes/travelersbackpack/diamond_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
     },
     "done": true
   },
@@ -2687,6 +2744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/lime_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-21 22:12:33 +0000"
@@ -2798,6 +2861,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-02-21 23:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
     },
     "done": true
   },
@@ -2948,6 +3017,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 22:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
     },
     "done": true
   },
@@ -3125,6 +3200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-02-27 14:07:06 +0000"
@@ -3152,6 +3233,12 @@
   "minecraft:recipes/travelersbackpack/bat_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
     },
     "done": true
   },
@@ -3317,6 +3404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-21 22:08:46 +0000"
@@ -3398,6 +3491,12 @@
   "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-28 02:08:37 +0000"
     },
     "done": true
   },
@@ -3503,6 +3602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 22:26:54 +0000"
@@ -3533,6 +3638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -3560,6 +3671,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-02-22 05:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:08:35 +0000"
     },
     "done": true
   },
@@ -3602,6 +3719,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-23 23:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-28 02:09:39 +0000"
     },
     "done": true
   },
