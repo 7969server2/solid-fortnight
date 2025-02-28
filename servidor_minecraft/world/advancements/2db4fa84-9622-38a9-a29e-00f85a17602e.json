@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-28 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bat_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 22:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-02-28 02:28:48 +0000"
     },
     "done": true
   },
@@ -401,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-28 02:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 22:26:54 +0000"
@@ -563,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-02-28 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 22:08:00 +0000"
@@ -668,6 +692,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-21 22:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-28 02:28:28 +0000"
     },
     "done": true
   },
@@ -840,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-28 02:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-21 22:52:34 +0000"
@@ -915,6 +951,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-22 01:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-28 02:28:48 +0000"
     },
     "done": true
   },
@@ -1619,6 +1661,7 @@
       "minecraft:snowy_beach": "2025-02-28 02:00:41 +0000",
       "minecraft:flower_forest": "2025-02-28 01:43:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 01:00:47 +0000",
+      "minecraft:meadow": "2025-02-28 02:23:55 +0000",
       "minecraft:savanna": "2025-02-28 01:29:40 +0000",
       "minecraft:plains": "2025-02-21 22:00:45 +0000"
     },
@@ -1750,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-28 02:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-23 23:14:19 +0000"
@@ -1771,6 +1820,12 @@
   "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-02-28 02:28:48 +0000"
     },
     "done": true
   },
@@ -3188,6 +3243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-02-28 02:39:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-02-21 22:00:45 +0000"
@@ -3299,6 +3360,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-28 02:28:48 +0000"
     },
     "done": true
   },

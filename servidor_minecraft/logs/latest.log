@@ -3543,3 +3543,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [28Feb2025 01:23:21.555] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [28Feb2025 01:23:21.556] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [28Feb2025 01:53:36.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[28Feb2025 02:20:05.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/30175, l='ServerLevel[world]', x=-29317.40, y=92.38, z=-5151.70] died, message: 'Nitwit was slain by arturrssb'
+[28Feb2025 02:29:38.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[28Feb2025 02:34:06.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28773, y=59, z=-5925} BlockPos{x=-28773, y=58, z=-5925}
