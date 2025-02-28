@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cyan_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-21 22:12:33 +0000"
@@ -557,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-02-21 22:42:11 +0000"
@@ -698,6 +710,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-02-21 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
     },
     "done": true
   },
@@ -1242,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"
@@ -1532,6 +1556,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-28 01:53:27 +0000",
       "minecraft:taiga": "2025-02-22 01:28:15 +0000",
       "minecraft:sunflower_plains": "2025-02-28 01:42:21 +0000",
       "minecraft:birch_forest": "2025-02-21 23:57:21 +0000",
@@ -1539,12 +1564,14 @@
       "minecraft:beach": "2025-02-21 22:15:51 +0000",
       "minecraft:sparse_jungle": "2025-02-22 04:30:45 +0000",
       "minecraft:river": "2025-02-21 22:28:59 +0000",
+      "minecraft:stony_shore": "2025-02-28 01:56:07 +0000",
       "minecraft:cold_ocean": "2025-02-21 22:16:42 +0000",
       "minecraft:forest": "2025-02-21 23:54:54 +0000",
       "minecraft:lush_caves": "2025-02-22 01:27:21 +0000",
       "minecraft:deep_cold_ocean": "2025-02-22 02:05:26 +0000",
       "minecraft:ocean": "2025-02-24 00:04:11 +0000",
       "minecraft:jungle": "2025-02-28 01:28:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-28 01:54:38 +0000",
       "minecraft:flower_forest": "2025-02-28 01:43:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 01:00:47 +0000",
       "minecraft:savanna": "2025-02-28 01:29:40 +0000",
@@ -2414,6 +2441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-21 22:10:08 +0000"
@@ -2744,6 +2777,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-21 22:08:00 +0000"
@@ -2765,6 +2804,12 @@
   "minecraft:recipes/travelersbackpack/light_gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-21 22:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
     },
     "done": true
   },
@@ -3221,6 +3266,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-23 23:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 01:57:07 +0000"
     },
     "done": true
   },
