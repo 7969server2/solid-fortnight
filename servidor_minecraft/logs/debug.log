@@ -5587,3 +5587,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03Mar2025 13:50:36.572] [Netty Epoll Server IO #1/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.checkAccessible: true
 [03Mar2025 13:50:36.572] [Netty Epoll Server IO #1/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.checkBounds: true
 [03Mar2025 13:50:36.572] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@82a7a2a
+[03Mar2025 13:52:57.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 13:52:57.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 13:57:57.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 13:57:57.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
