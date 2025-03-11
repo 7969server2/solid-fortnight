@@ -3593,3 +3593,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Mar2025 18:22:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
 [11Mar2025 18:31:03.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [11Mar2025 18:31:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[11Mar2025 18:36:56.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Knowledge of Death]
+[11Mar2025 18:36:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has reached the goal [Here They Come]
+[11Mar2025 18:40:39.421] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3910de8d
+[11Mar2025 18:40:39.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:50255] logged in with entity id 7587 at (-967.988461824368, 32.0, -332.3761279677966)
+[11Mar2025 18:40:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[11Mar2025 18:40:39.436] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[11Mar2025 18:40:39.437] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[11Mar2025 18:40:41.470] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[11Mar2025 18:40:41.471] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Mar2025 18:40:41.471] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[11Mar2025 18:40:41.471] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Mar2025 18:41:19.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[11Mar2025 18:41:19.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[11Mar2025 18:42:00.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
+[11Mar2025 18:42:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
