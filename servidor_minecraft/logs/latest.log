@@ -3594,3 +3594,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Mar2025 14:32:58.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [11Mar2025 14:32:58.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule playerSleepingPercentage 1<--[HERE]
 [11Mar2025 14:33:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: 1
+[11Mar2025 14:36:04.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Mar2025 14:36:04.786] [Server thread/WARN] [tombstone/]: The death event of the player tumamkalat was canceled by another mod
+[11Mar2025 14:36:04.787] [Server thread/INFO] [tombstone/]: The player tumamkalat has successfully been saved
+[11Mar2025 14:37:04.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamkalat with unique ID c5eb525c-0c3f-4488-a332-e73d000952e7
+[11Mar2025 14:37:04.747] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -29302 Y: 22 Z: -7269
+[11Mar2025 14:37:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat fell from a high place
+[11Mar2025 14:37:04.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Your First Grave]
+[11Mar2025 14:42:07.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamkalat to arturrssb
