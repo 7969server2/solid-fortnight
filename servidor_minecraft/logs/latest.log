@@ -3546,3 +3546,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Mar2025 13:58:44.244] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11Mar2025 13:58:44.245] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Pentester : SUCCESS
 [11Mar2025 13:58:44.245] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Mar2025 14:03:56.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51b62f48
+[11Mar2025 14:03:56.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.27.202.134:34839] logged in with entity id 2416 at (-2.5, 63.0, -2.5)
+[11Mar2025 14:03:56.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[11Mar2025 14:03:56.442] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[11Mar2025 14:03:56.443] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[11Mar2025 14:04:00.407] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[11Mar2025 14:04:00.407] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Mar2025 14:04:00.446] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[11Mar2025 14:04:00.446] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Mar2025 14:04:50.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[11Mar2025 14:05:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Monster Hunter]
+[11Mar2025 14:08:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamkalat to arturrssb
+[11Mar2025 14:08:45.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[11Mar2025 14:08:57.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Pentester to arturrssb
+[11Mar2025 14:10:06.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Stone Age]
+[11Mar2025 14:10:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asd
+[11Mar2025 14:10:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Amateur Archaeologist]
+[11Mar2025 14:11:16.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Amateur Archaeologist]
