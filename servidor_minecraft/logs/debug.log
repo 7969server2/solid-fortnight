@@ -6500,3 +6500,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Mar2025 18:22:26.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -963 Y: 20 Z: -302
 [11Mar2025 18:22:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
 [11Mar2025 18:22:26.583] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumamkalat was created at position [x:-965, y:19, z:-302, dim:minecraft:overworld]
+[11Mar2025 18:24:51.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 18:24:51.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 18:29:51.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 18:29:51.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 18:31:03.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[11Mar2025 18:31:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

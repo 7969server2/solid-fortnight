@@ -3591,3 +3591,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Mar2025 18:22:26.571] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamkalat with unique ID e4fa50e0-96ba-4896-b18f-8089e203ae02
 [11Mar2025 18:22:26.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -963 Y: 20 Z: -302
 [11Mar2025 18:22:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
+[11Mar2025 18:31:03.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[11Mar2025 18:31:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
