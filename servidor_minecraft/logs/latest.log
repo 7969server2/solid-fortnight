@@ -3520,3 +3520,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12Mar2025 13:12:29.776] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9128 ms
 [12Mar2025 13:12:29.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.962s)! For help, type "help"
 [12Mar2025 13:12:29.800] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Mar2025 13:30:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
