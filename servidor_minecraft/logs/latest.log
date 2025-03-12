@@ -3622,3 +3622,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12Mar2025 02:28:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
 [12Mar2025 02:28:37.458] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
 [12Mar2025 02:28:37.458] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[12Mar2025 02:28:40.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[12Mar2025 02:28:40.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Mar2025 02:28:40.193] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[12Mar2025 02:28:40.194] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Mar2025 02:29:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tony> w
+[12Mar2025 02:29:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> me asustaste xd
+[12Mar2025 02:29:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tony> ahorita vengo
+[12Mar2025 02:29:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> va
+[12Mar2025 02:30:05.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tony> voy a intentar entrar con la otra cuenta
+[12Mar2025 02:30:10.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dale
+[12Mar2025 02:30:22.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> deja tu mochiña
+[12Mar2025 02:30:51.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tony lost connection: Disconnected
+[12Mar2025 02:30:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tony left the game
+[12Mar2025 02:32:11.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[12Mar2025 02:32:46.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e7eef22
+[12Mar2025 02:32:46.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalat[/127.69.27.15:49199] logged in with entity id 7860 at (-1.5, 69.0, 6.5)
+[12Mar2025 02:32:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalat joined the game
+[12Mar2025 02:32:46.930] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalat
+[12Mar2025 02:32:46.930] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalat
+[12Mar2025 02:32:50.569] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalat : SUCCESS
+[12Mar2025 02:32:50.569] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Mar2025 02:32:50.596] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalat : SUCCESS
+[12Mar2025 02:32:50.596] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Mar2025 02:33:14.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalat> no se guarda
+[12Mar2025 02:33:31.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> esa no es la cuenta p chistoso
+[12Mar2025 02:33:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalat> dale tp
+[12Mar2025 02:33:41.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalat> si es
+[12Mar2025 02:33:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no es
+[12Mar2025 02:33:50.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalat> poq
+[12Mar2025 02:33:51.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> el nombre es tumamkalat
+[12Mar2025 02:33:57.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sin una a
+[12Mar2025 02:34:01.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalat> xd
+[12Mar2025 02:34:06.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalat lost connection: Disconnected
+[12Mar2025 02:34:06.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalat left the game
+[12Mar2025 02:35:10.250] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27e4fbdb
+[12Mar2025 02:35:10.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.69.27.15:48281] logged in with entity id 8574 at (-532.7877949008839, 80.0, -172.5055936341432)
+[12Mar2025 02:35:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[12Mar2025 02:35:10.261] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[12Mar2025 02:35:10.262] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[12Mar2025 02:35:13.878] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[12Mar2025 02:35:13.878] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Mar2025 02:35:13.897] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[12Mar2025 02:35:13.897] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Mar2025 02:35:20.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> tp fast
+[12Mar2025 02:35:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> tp
+[12Mar2025 02:35:25.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamkalat to arturrssb
+[12Mar2025 02:37:59.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> q pasha
+[12Mar2025 02:38:03.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> xd
