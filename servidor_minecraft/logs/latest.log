@@ -3611,3 +3611,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Mar2025 15:21:24.212] [Server thread/WARN] [tombstone/]: The death event of the player Pentester was canceled by another mod
 [13Mar2025 15:21:24.212] [Server thread/INFO] [tombstone/]: The player Pentester has successfully been saved
 [13Mar2025 15:22:24.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester fell from a high place
+[13Mar2025 15:34:28.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pentester> kill
+[13Mar2025 15:35:37.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pentester> [name:"Death 10:22:22 03-13-2025", x:-29327, y:-5, z:-7150, dim:minecraft:overworld]
+[13Mar2025 15:42:46.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[13Mar2025 15:42:46.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
