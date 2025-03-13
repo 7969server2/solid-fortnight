@@ -6587,3 +6587,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Mar2025 15:42:46.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
 [13Mar2025 15:42:49.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Mar2025 15:42:49.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 15:47:49.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 15:47:49.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 15:52:49.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 15:52:49.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 15:53:42.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pentester lost connection: Disconnected
+[13Mar2025 15:53:42.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester left the game
