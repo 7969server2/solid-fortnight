@@ -3606,3 +3606,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Mar2025 14:33:56.252] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -719 Y: 71 Z: -106
 [13Mar2025 14:33:56.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
 [13Mar2025 14:34:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamkalat to -717.500000, 71.000000, -106.500000
+[13Mar2025 15:19:58.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Ashes 'n Bones]
+[13Mar2025 15:21:24.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Mar2025 15:21:24.212] [Server thread/WARN] [tombstone/]: The death event of the player Pentester was canceled by another mod
+[13Mar2025 15:21:24.212] [Server thread/INFO] [tombstone/]: The player Pentester has successfully been saved
+[13Mar2025 15:22:24.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester fell from a high place
