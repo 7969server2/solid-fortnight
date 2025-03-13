@@ -3534,3 +3534,75 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Mar2025 13:45:21.285] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [13Mar2025 13:48:26.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13Mar2025 13:48:26.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: }<--[HERE]
+[13Mar2025 14:12:49.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b4cdf48
+[13Mar2025 14:12:49.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.27.202.134:51437] logged in with entity id 646 at (-871.6552123976111, 23.0, -211.35103751638957)
+[13Mar2025 14:12:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[13Mar2025 14:12:49.955] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[13Mar2025 14:12:49.955] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[13Mar2025 14:12:52.126] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[13Mar2025 14:12:52.131] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:12:52.132] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[13Mar2025 14:12:52.134] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:13:49.538] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d068fa5
+[13Mar2025 14:13:49.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:35329] logged in with entity id 994 at (-856.4462875720528, 64.0, -245.42409085104717)
+[13Mar2025 14:13:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Mar2025 14:13:49.591] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Mar2025 14:13:49.591] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Mar2025 14:13:52.165] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Mar2025 14:13:52.166] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:13:52.181] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Mar2025 14:13:52.182] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:14:00.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[13Mar2025 14:14:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Mar2025 14:18:15.786] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b937850
+[13Mar2025 14:18:15.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:51661] logged in with entity id 1534 at (-863.0454119114149, 64.0, -247.52895973184795)
+[13Mar2025 14:18:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Mar2025 14:18:15.835] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Mar2025 14:18:15.836] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Mar2025 14:18:18.441] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Mar2025 14:18:18.441] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:18:18.478] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Mar2025 14:18:18.478] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:19:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ANGELO GAY
+[13Mar2025 14:19:32.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> kabrazo
+[13Mar2025 14:20:02.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Not Today, Thank You]
+[13Mar2025 14:21:08.889] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72dcb2f9
+[13Mar2025 14:21:08.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pentester[/127.27.202.134:40453] logged in with entity id 2364 at (-29317.66421291078, 65.0, -7272.53458993676)
+[13Mar2025 14:21:08.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester joined the game
+[13Mar2025 14:21:08.907] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Pentester
+[13Mar2025 14:21:08.907] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Pentester
+[13Mar2025 14:21:12.665] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Pentester : SUCCESS
+[13Mar2025 14:21:12.665] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:21:12.665] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Pentester : SUCCESS
+[13Mar2025 14:21:12.665] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:21:12.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[13Mar2025 14:21:50.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bac9141
+[13Mar2025 14:23:51.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
+[13Mar2025 14:23:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
+[13Mar2025 14:23:58.786] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13932498
+[13Mar2025 14:23:58.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.27.202.134:41271] logged in with entity id 3970 at (-898.4992342458066, 1.0, -186.76813238854893)
+[13Mar2025 14:23:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[13Mar2025 14:23:58.805] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[13Mar2025 14:23:58.805] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[13Mar2025 14:24:00.606] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[13Mar2025 14:24:00.606] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:24:00.606] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[13Mar2025 14:24:00.607] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 14:25:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Diamonds!]
+[13Mar2025 14:26:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Mar2025 14:26:37.743] [Server thread/WARN] [tombstone/]: The death event of the player Pentester was canceled by another mod
+[13Mar2025 14:26:37.747] [Server thread/INFO] [tombstone/]: The player Pentester has successfully been saved
+[13Mar2025 14:27:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Knowledge of Death]
+[13Mar2025 14:27:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has reached the goal [Strong or Careful]
+[13Mar2025 14:27:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester was shot by Skeleton
+[13Mar2025 14:27:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Your First Grave]
+[13Mar2025 14:29:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Pentester to -29340.500000, -10.000000, -7250.500000
+[13Mar2025 14:33:25.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Mar2025 14:33:25.687] [Server thread/WARN] [tombstone/]: The death event of the player tumamkalat was canceled by another mod
+[13Mar2025 14:33:25.692] [Server thread/INFO] [tombstone/]: The player tumamkalat has successfully been saved
+[13Mar2025 14:33:41.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pentester has made the advancement [Cover Me with Diamonds]
+[13Mar2025 14:33:55.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Mar2025 14:33:56.249] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamkalat with unique ID 6bd253ff-4cfa-4a18-bd51-41d07ade3f26
+[13Mar2025 14:33:56.252] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -719 Y: 71 Z: -106
+[13Mar2025 14:33:56.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
+[13Mar2025 14:34:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamkalat to -717.500000, 71.000000, -106.500000
