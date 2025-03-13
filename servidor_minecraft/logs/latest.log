@@ -3519,3 +3519,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Mar2025 12:42:42.548] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8529 ms
 [13Mar2025 12:42:42.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.790s)! For help, type "help"
 [13Mar2025 12:42:42.570] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Mar2025 13:44:51.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54dd629b
+[13Mar2025 13:44:51.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.207.8.201:60803] logged in with entity id 398 at (-856.0495996127561, 64.0, -244.54833338026341)
+[13Mar2025 13:44:51.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Mar2025 13:44:51.242] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Mar2025 13:44:51.243] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Mar2025 13:44:53.989] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Mar2025 13:44:53.989] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 13:44:53.990] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Mar2025 13:44:53.990] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Mar2025 13:44:53.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[13Mar2025 13:45:21.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[13Mar2025 13:45:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Mar2025 13:45:21.285] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Mar2025 13:48:26.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Mar2025 13:48:26.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: }<--[HERE]
