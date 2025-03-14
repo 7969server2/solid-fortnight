@@ -3520,3 +3520,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [14Mar2025 12:58:49.010] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [14Mar2025 13:09:12.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [14Mar2025 13:09:12.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > > > > > > > > > > > > > > > > > > > > > > > > > > > > ><--[HERE]
+[14Mar2025 13:28:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] server activated
