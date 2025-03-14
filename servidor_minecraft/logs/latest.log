@@ -3557,3 +3557,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [14Mar2025 18:23:53.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] server activated
 [14Mar2025 18:29:36.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [14Mar2025 18:29:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > ><--[HERE]
+[14Mar2025 18:41:39.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[14Mar2025 18:41:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
