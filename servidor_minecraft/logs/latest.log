@@ -3522,3 +3522,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16Mar2025 13:11:29.393] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10143 ms
 [16Mar2025 13:11:29.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.077s)! For help, type "help"
 [16Mar2025 13:11:29.428] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Mar2025 13:21:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] activate
+[16Mar2025 13:24:46.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e8bbaab
+[16Mar2025 13:24:46.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sech[/127.4.227.198:56201] logged in with entity id 400 at (1.5, 68.0, -5.5)
+[16Mar2025 13:24:46.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sech joined the game
+[16Mar2025 13:24:46.564] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to sech
+[16Mar2025 13:24:46.565] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to sech
+[16Mar2025 13:24:49.067] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from sech : SUCCESS
+[16Mar2025 13:24:49.068] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[16Mar2025 13:24:49.089] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from sech : SUCCESS
+[16Mar2025 13:24:49.089] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[16Mar2025 13:25:35.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sech lost connection: Disconnected
+[16Mar2025 13:25:35.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sech left the game
