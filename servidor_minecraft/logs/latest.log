@@ -3522,3 +3522,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16Mar2025 15:26:30.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Mar2025 15:26:30.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY l<--[HERE]
 [16Mar2025 15:26:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] L
+[16Mar2025 15:38:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Mar2025 15:38:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY L<--[HERE]
+[16Mar2025 15:38:42.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] L
