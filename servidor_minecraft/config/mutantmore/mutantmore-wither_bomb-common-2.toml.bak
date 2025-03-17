@@ -31,8 +31,7 @@
 # The interval in ticks (20 ticks in a second) between an active Wither Bomb causing damage to mobs caught in its damage range
 # usually set to 10 ticks (0.5 seconds)
 "Damage Interval" = 10
-
-
+#
 # The damage dealt to mobs caught inside an active Wither Bomb's damage range every damage interval
 # usually set to 1.0
 Damage = 1.0
