@@ -3528,3 +3528,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Mar2025 02:28:23.692] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [18Mar2025 02:28:23.692] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [18Mar2025 03:00:21.063] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@677e93b5
+[18Mar2025 03:36:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[18Mar2025 03:36:03.116] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[18Mar2025 03:36:03.124] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
