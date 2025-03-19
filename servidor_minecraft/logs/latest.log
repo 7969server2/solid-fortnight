@@ -3574,3 +3574,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 02:24:01.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat moved too quickly! -10.030657240532605,0.003016261509046103,-0.5104677941001086
 [19Mar2025 02:26:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> en q estas
 [19Mar2025 02:27:21.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2868537a
+[19Mar2025 02:36:15.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8783, l='ServerLevel[world]', x=-215.66, y=63.00, z=-508.29] died, message: 'Villager was slain by Zombie'
