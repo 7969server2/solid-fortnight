@@ -3561,3 +3561,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 01:22:47.425] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamkalat with unique ID 34a391d7-32db-4243-bd32-31d1609a4e8d
 [19Mar2025 01:22:47.428] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -718 Y: 71 Z: -104
 [19Mar2025 01:22:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
+[19Mar2025 02:16:28.450] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b417b83
+[19Mar2025 02:16:28.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:57341] logged in with entity id 8770 at (-179.594828713445, 65.0, -527.6849249031062)
+[19Mar2025 02:16:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[19Mar2025 02:16:28.470] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[19Mar2025 02:16:28.470] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[19Mar2025 02:16:31.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[19Mar2025 02:16:34.362] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Mar2025 02:16:34.362] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Mar2025 02:16:34.362] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Mar2025 02:16:34.362] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
