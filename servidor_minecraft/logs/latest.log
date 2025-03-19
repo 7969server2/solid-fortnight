@@ -3575,3 +3575,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 02:26:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> en q estas
 [19Mar2025 02:27:21.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2868537a
 [19Mar2025 02:36:15.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8783, l='ServerLevel[world]', x=-215.66, y=63.00, z=-508.29] died, message: 'Villager was slain by Zombie'
+[19Mar2025 02:54:44.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> |||||
+[19Mar2025 02:54:45.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aña
+[19Mar2025 02:55:19.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: You logged in from another location
+[19Mar2025 02:55:19.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
+[19Mar2025 02:55:19.642] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@332af0d9
+[19Mar2025 02:55:19.697] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Mar2025 02:55:19.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.69.27.15:37401] logged in with entity id 21000 at (-721.9512792191965, 74.0, -114.55826799632227)
+[19Mar2025 02:55:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[19Mar2025 02:55:19.717] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[19Mar2025 02:55:19.718] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[19Mar2025 02:55:21.230] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[19Mar2025 02:55:21.231] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Mar2025 02:55:21.231] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[19Mar2025 02:55:21.231] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
