@@ -3555,3 +3555,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 00:57:05.923] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
 [19Mar2025 00:57:05.923] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [19Mar2025 00:59:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mucho cuidadito
+[19Mar2025 01:21:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Mar2025 01:21:32.477] [Server thread/WARN] [tombstone/]: The death event of the player tumamkalat was canceled by another mod
+[19Mar2025 01:21:32.484] [Server thread/INFO] [tombstone/]: The player tumamkalat has successfully been saved
+[19Mar2025 01:22:47.425] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamkalat with unique ID 34a391d7-32db-4243-bd32-31d1609a4e8d
+[19Mar2025 01:22:47.428] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -718 Y: 71 Z: -104
+[19Mar2025 01:22:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat was slain by Zombie
