@@ -3649,3 +3649,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Apr2025 22:46:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dajdnjiadnjadmkad
 [18Apr2025 22:46:29.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=30, z=-18} BlockPos{x=-77, y=27, z=-18}
 [18Apr2025 22:48:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
+[18Apr2025 22:53:22.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lñ
+[18Apr2025 22:54:34.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 22:54:34.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[18Apr2025 22:54:34.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 22:54:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
