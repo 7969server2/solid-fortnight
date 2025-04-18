@@ -3624,3 +3624,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Apr2025 22:17:47.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=127, z=-745} BlockPos{x=-284, y=122, z=-745}
 [18Apr2025 22:19:24.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Ashes 'n Bones]
 [18Apr2025 22:23:51.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-275, y=127, z=-744} BlockPos{x=-276, y=124, z=-744}
+[18Apr2025 22:30:49.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-298, y=134, z=-736} BlockPos{x=-298, y=132, z=-736}
+[18Apr2025 22:30:50.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=135, z=-736} BlockPos{x=-298, y=132, z=-736}
+[18Apr2025 22:32:45.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Not Today, Thank You]
+[18Apr2025 22:34:18.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[18Apr2025 22:34:18.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[18Apr2025 22:34:23.532] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45bed7bd
+[18Apr2025 22:34:23.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:42373] logged in with entity id 58265 at (-279.518579985202, 119.0, -787.4497901650075)
+[18Apr2025 22:34:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[18Apr2025 22:34:23.584] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[18Apr2025 22:34:23.584] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[18Apr2025 22:34:25.675] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[18Apr2025 22:34:25.675] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[18Apr2025 22:34:25.675] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[18Apr2025 22:34:25.675] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
