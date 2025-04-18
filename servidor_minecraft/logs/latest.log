@@ -3558,3 +3558,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Apr2025 18:49:21.873] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
 [18Apr2025 18:49:21.877] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
 [18Apr2025 18:50:16.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Ashes 'n Bones]
+[18Apr2025 19:19:03.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[18Apr2025 19:19:03.541] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[18Apr2025 19:19:03.542] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
