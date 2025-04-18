@@ -3593,3 +3593,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Apr2025 19:51:37.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=118, z=-756} BlockPos{x=-307, y=118, z=-756}
 [18Apr2025 20:10:44.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Cover Me with Diamonds]
 [18Apr2025 20:58:17.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-305, y=126, z=-755} BlockPos{x=-304, y=126, z=-754}
+[18Apr2025 21:10:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[18Apr2025 21:10:54.021] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[18Apr2025 21:10:54.025] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
