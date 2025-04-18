@@ -1,4 +1,3 @@
-compatibility = {}
 
 #Options related to player's death
 [player_death]
@@ -177,30 +176,4 @@ compatibility = {}
 	#Duration of applied effects in seconds [1..MAX|default:10]
 	#Range: > 1
 	duration_plague_bringer = 10
-	#Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10% of the initial effect [ALLOW/NERFED/DISALLOW|default:ALLOW]
-	#Allowed Values: ALLOW, NERFED, DISALLOW
-	magic_siphon_on_player_rule = "ALLOW"
-
-#Options related to the command recovery and auto-save of players
-[recovery]
-	#Enables to backup automatically players [false/true|default:true]
-	recovery_player_enable = true
-	#Backup players on death [false/true|default:false]
-	backup_on_death = true
-	#Time in minutes between players' backups [10..1000|default:40]
-	#Range: 5 ~ 1000
-	recovery_player_timer = 19
-	#Maximum number of backups per player [5..100|default:15]
-	#Range: 5 ~ 100
-	recovery_player_max_saves = 15
-	#Log when players are automatically back up [false/true|default:false]
-	log_auto_backup = false
-
-#Options related to looted items
-[loot]
-	#Maximum xp rewarded with a Lost Page of Erdös [1..200000|default:2000]
-	#Range: 1 ~ 200000
-	max_xp_lost_page = 2000
-	#Entities that can't found as loot in a Familiar Receptacle
-	unhandled_tameable_entities = []
-
+	#Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10% of the i
