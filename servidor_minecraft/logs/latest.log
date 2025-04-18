@@ -3654,3 +3654,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Apr2025 22:54:34.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
 [18Apr2025 22:54:34.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Apr2025 22:54:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[18Apr2025 23:00:24.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[18Apr2025 23:00:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[18Apr2025 23:05:03.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> ee
