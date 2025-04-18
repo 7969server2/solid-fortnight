@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/end_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-17 18:24:01 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-17 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -335,9 +347,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/horse_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-17 18:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -374,6 +404,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-17 19:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/gold_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -419,9 +455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/villager_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-04-18 21:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -470,6 +518,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-17 17:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -632,6 +686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/melon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 17:57:42 +0000"
@@ -644,6 +704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
@@ -653,6 +719,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -812,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-17 19:29:03 +0000"
@@ -854,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/wither_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 01:33:20 +0000"
@@ -881,6 +965,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1094,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-17 20:05:36 +0000"
@@ -1109,6 +1205,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-17 17:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1159,6 +1261,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1276,6 +1384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-17 17:51:57 +0000"
@@ -1285,6 +1399,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/spider_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1523,9 +1643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/coal_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1653,15 +1785,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-17 17:51:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1692,6 +1842,18 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pig_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -1923,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
@@ -1950,6 +2118,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-17 17:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2025,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bat_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-18 01:33:20 +0000"
@@ -2052,6 +2232,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/standard_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2199,6 +2385,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 22:19:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-17 17:31:23 +0000"
@@ -2214,6 +2406,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-18 03:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2256,6 +2454,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-18 01:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2445,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-17 18:06:41 +0000"
@@ -2454,6 +2664,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-17 18:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2472,6 +2688,18 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-17 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2517,6 +2745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/hay_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-17 18:33:53 +0000"
@@ -2544,6 +2778,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-17 17:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2601,6 +2841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/squid_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
@@ -2649,6 +2895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-04-17 18:40:02 +0000"
@@ -2679,6 +2931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"
@@ -2688,6 +2946,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
     },
     "done": true
   },
