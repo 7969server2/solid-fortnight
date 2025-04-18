@@ -3615,3 +3615,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [18Apr2025 21:57:55.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-299, y=123, z=-748} BlockPos{x=-299, y=121, z=-746}
 [18Apr2025 21:58:44.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=122, z=-748} BlockPos{x=-279, y=122, z=-749}
 [18Apr2025 22:03:26.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Return to Sender]
+[18Apr2025 22:16:39.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-269, y=125, z=-745} BlockPos{x=-273, y=124, z=-745}
+[18Apr2025 22:17:43.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=123, z=-745} BlockPos{x=-286, y=123, z=-745}
+[18Apr2025 22:17:43.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=123, z=-745} BlockPos{x=-286, y=123, z=-745}
+[18Apr2025 22:17:43.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=123, z=-745} BlockPos{x=-286, y=123, z=-745}
+[18Apr2025 22:17:47.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=127, z=-745} BlockPos{x=-284, y=122, z=-745}
+[18Apr2025 22:17:47.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=127, z=-745} BlockPos{x=-284, y=122, z=-745}
+[18Apr2025 22:17:47.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=127, z=-745} BlockPos{x=-284, y=122, z=-745}
