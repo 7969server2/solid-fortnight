@@ -4000,3 +4000,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at java.lang.Thread.run(Thread.java:840) [?:?]
 [19Apr2025 22:47:59.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
 [19Apr2025 22:47:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[19Apr2025 22:55:36.756] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ccd8565
+[19Apr2025 22:55:36.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.108.196.61:49413] logged in with entity id 5311 at (-244.15076164954573, 119.0, -761.1045177766209)
+[19Apr2025 22:55:36.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[19Apr2025 22:55:36.821] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[19Apr2025 22:55:36.822] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[19Apr2025 22:55:36.822] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[19Apr2025 22:55:40.975] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[19Apr2025 22:55:40.976] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Apr2025 22:55:40.976] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[19Apr2025 22:55:40.976] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
