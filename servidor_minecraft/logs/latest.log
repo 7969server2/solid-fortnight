@@ -7572,3 +7572,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 03:18:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D<--[HERE]
 [19Apr2025 03:26:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tas hablando?
 [19Apr2025 03:31:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> 4,320
+[19Apr2025 03:37:00.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=43, z=-62} BlockPos{x=-74, y=41, z=-61}
+[19Apr2025 03:37:00.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=43, z=-62} BlockPos{x=-74, y=41, z=-61}
+[19Apr2025 03:37:11.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=33, z=-43} BlockPos{x=-75, y=29, z=-41}
+[19Apr2025 03:37:12.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=33, z=-43} BlockPos{x=-75, y=30, z=-40}
+[19Apr2025 03:38:18.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=18, z=-3} BlockPos{x=-75, y=17, z=-3}
+[19Apr2025 03:39:18.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=20, z=34} BlockPos{x=-71, y=18, z=35}
+[19Apr2025 03:39:19.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=38} BlockPos{x=-70, y=16, z=37}
+[19Apr2025 03:39:37.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:39:37.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=11, z=34} BlockPos{x=-73, y=8, z=34}
+[19Apr2025 03:47:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Cover Me in Debris]
