@@ -7588,3 +7588,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 03:39:37.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=9, z=34} BlockPos{x=-73, y=8, z=34}
 [19Apr2025 03:39:37.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=11, z=34} BlockPos{x=-73, y=8, z=34}
 [19Apr2025 03:47:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Cover Me in Debris]
+[19Apr2025 04:18:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
+[19Apr2025 04:18:59.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[19Apr2025 04:18:59.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[19Apr2025 04:18:59.418] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 04:19:51.023] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36acbd4b
+[19Apr2025 04:19:51.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.6.213.13:58833] logged in with entity id 49409 at (-294.176962347736, 119.0, -810.020856085201)
+[19Apr2025 04:19:51.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[19Apr2025 04:19:51.080] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[19Apr2025 04:19:51.080] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[19Apr2025 04:19:51.080] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[19Apr2025 04:19:55.986] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Apr2025 04:19:55.986] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Apr2025 04:19:55.986] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Apr2025 04:19:55.986] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
