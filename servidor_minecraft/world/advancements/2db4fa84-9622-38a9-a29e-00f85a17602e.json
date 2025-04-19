@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-17 18:49:03 +0000"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-17 18:49:08 +0000"
@@ -747,6 +759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
@@ -855,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"
@@ -918,6 +942,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-18 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
     },
     "done": true
   },
@@ -1409,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/ghast_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
@@ -1831,6 +1867,12 @@
   "minecraft:recipes/travelersbackpack/blaze_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
     },
     "done": true
   },
@@ -2338,6 +2380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-19 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
@@ -2488,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
@@ -2602,6 +2656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-17 17:22:30 +0000"
@@ -2683,6 +2743,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-04-18 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
     },
     "done": true
   },
@@ -2848,6 +2914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-19 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/hay_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
@@ -2923,6 +2995,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
     },
     "done": true
   },
