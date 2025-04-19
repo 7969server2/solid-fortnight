@@ -6455,3 +6455,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 22:42:17.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 22:42:17.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 22:42:24.755] [Server thread/DEBUG] [Retraining/]: Loaded com.mrbysco.retraining.platform.ForgePlatformHelper@30f1f15f for service interface com.mrbysco.retraining.platform.services.IPlatformHelper
+[19Apr2025 22:47:17.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 22:47:17.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 22:47:59.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[19Apr2025 22:47:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game

@@ -3998,3 +3998,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 22:47:59.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[19Apr2025 22:47:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
