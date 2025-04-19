@@ -4010,3 +4010,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 22:55:40.976] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [19Apr2025 22:55:40.976] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
 [19Apr2025 22:55:40.976] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Apr2025 23:13:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[19Apr2025 23:17:27.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Sneak 100]
+[19Apr2025 23:21:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Withering Heights]
+[19Apr2025 23:21:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Withering Heights]
+[19Apr2025 23:21:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Take Aim]
+[19Apr2025 23:22:08.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Strong Undead]
+[19Apr2025 23:22:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Your First Receptacle]
+[19Apr2025 23:22:17.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Diamonds!]
