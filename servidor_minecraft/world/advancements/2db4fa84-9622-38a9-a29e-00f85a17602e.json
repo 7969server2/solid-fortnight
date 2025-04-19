@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-19 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
@@ -1351,7 +1357,8 @@
       "minecraft:lush_caves": "2025-04-17 17:25:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 17:22:31 +0000",
       "minecraft:deep_dark": "2025-04-18 03:28:42 +0000",
-      "minecraft:meadow": "2025-04-18 01:36:29 +0000"
+      "minecraft:meadow": "2025-04-18 01:36:29 +0000",
+      "minecraft:plains": "2025-04-19 04:13:05 +0000"
     },
     "done": false
   },
