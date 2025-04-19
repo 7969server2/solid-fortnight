@@ -1,1 +1,2 @@
 [19Apr2025 00:03:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Great minds think alike]
+[19Apr2025 00:11:32.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=119, z=-758} BlockPos{x=-259, y=118, z=-822}
