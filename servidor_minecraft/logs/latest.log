@@ -7512,3 +7512,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 02:29:20.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=60, z=-1331} BlockPos{x=-294, y=60, z=-1330}
 [19Apr2025 02:30:23.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-288, y=61, z=-1327} BlockPos{x=-290, y=62, z=-1328}
 [19Apr2025 02:32:37.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-366, y=58, z=-1347} BlockPos{x=-366, y=57, z=-1347}
+[19Apr2025 02:43:35.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22954ms or 459 ticks behind
+[19Apr2025 02:43:35.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 9.574874994293282,-0.5644757116124737,-3.7389800835813958
+[19Apr2025 02:43:36.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asd
+[19Apr2025 02:43:37.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 02:43:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[19Apr2025 02:43:37.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 02:43:37.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[19Apr2025 02:46:33.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Magic Writing]
