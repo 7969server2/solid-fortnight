@@ -14,3 +14,34 @@
 [19Apr2025 00:44:50.673] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
 [19Apr2025 00:44:50.674] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
 [19Apr2025 01:03:56.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Best Friends Forever]
+[19Apr2025 01:10:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Apr2025 01:10:41.073] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[19Apr2025 01:10:41.074] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[19Apr2025 01:12:32.031] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8206d28
+[19Apr2025 01:12:32.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:60471] logged in with entity id 92234 at (-270.56285766114985, 119.0, -784.3164243245359)
+[19Apr2025 01:12:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[19Apr2025 01:12:32.088] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[19Apr2025 01:12:32.089] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[19Apr2025 01:12:35.073] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Apr2025 01:12:35.073] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Apr2025 01:12:35.074] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Apr2025 01:12:35.074] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Apr2025 01:13:29.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 lost connection: Disconnected
+[19Apr2025 01:13:29.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
+[19Apr2025 01:21:01.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[19Apr2025 01:21:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[19Apr2025 01:22:07.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[19Apr2025 01:22:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[19Apr2025 01:22:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Apr2025 01:22:31.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Apr2025 01:22:31.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Apr2025 01:22:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Apr2025 01:22:32.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Apr2025 01:22:32.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Apr2025 01:22:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Apr2025 01:22:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[19Apr2025 01:22:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Apr2025 01:22:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Apr2025 01:22:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Apr2025 01:22:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19Apr2025 01:22:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
