@@ -15,3 +15,5 @@
 [20Apr2025 00:40:50.269] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [20Apr2025 00:40:50.300] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [20Apr2025 00:40:50.300] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 00:44:17.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[20Apr2025 00:44:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
