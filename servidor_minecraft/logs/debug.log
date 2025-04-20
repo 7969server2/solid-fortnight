@@ -6924,3 +6924,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 17:51:13.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Apr2025 17:56:13.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 17:56:13.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 18:01:13.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 18:01:13.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 18:05:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> beba
+[20Apr2025 18:05:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> yo
+[20Apr2025 18:05:44.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> voy a cerrar el server, en 5 minutos lo prendo
+[20Apr2025 18:05:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero ya es la 1 xd
+[20Apr2025 18:06:04.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> me avisan x wasap pue
+[20Apr2025 18:06:07.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tas en info?
+[20Apr2025 18:06:13.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> cuando lo prenden
+[20Apr2025 18:06:13.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 18:06:13.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 18:06:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> noup
+[20Apr2025 18:06:22.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xuxa
+[20Apr2025 18:06:27.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> safo
+[20Apr2025 18:06:31.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yaya algo fast, solo voy a reiniciar
+[20Apr2025 18:06:34.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> en 5 prendo
+[20Apr2025 18:06:35.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[20Apr2025 18:06:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[20Apr2025 18:06:44.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Apr2025 18:06:44.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Apr2025 18:06:44.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Apr2025 18:06:44.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Server closed
+[20Apr2025 18:06:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[20Apr2025 18:06:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Apr2025 18:06:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Apr2025 18:06:46.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Apr2025 18:06:46.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20Apr2025 18:06:46.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Apr2025 18:06:46.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 18:06:46.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 18:06:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Apr2025 18:06:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Apr2025 18:06:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20Apr2025 18:06:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Apr2025 18:06:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Apr2025 18:06:46.304] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[20Apr2025 18:06:46.304] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[20Apr2025 18:06:46.306] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
