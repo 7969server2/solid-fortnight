@@ -3594,3 +3594,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 14:16:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> necesitamoo 150000
 [20Apr2025 14:23:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> NONON
 [20Apr2025 14:36:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> discort=??????
+[20Apr2025 14:37:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> vavava
+[20Apr2025 14:38:15.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> s
+[20Apr2025 14:39:54.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=119, z=-796} BlockPos{x=-270, y=119, z=-797}
