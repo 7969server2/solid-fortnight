@@ -269,15 +269,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/gold_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/blaze_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-04-20 00:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/gold_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
     },
     "done": true
   },
