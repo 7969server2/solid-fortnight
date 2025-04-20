@@ -2193,6 +2193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-20 05:20:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-04-17 17:29:46 +0000"
@@ -3881,6 +3887,12 @@
   "minecraft:recipes/travelersbackpack/enderman_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-20 05:20:05 +0000"
     },
     "done": true
   },
