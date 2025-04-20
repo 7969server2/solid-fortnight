@@ -1,2 +1,17 @@
 [20Apr2025 00:28:24.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Bring Home the Beacon]
 [20Apr2025 00:28:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Beaconator]
+[20Apr2025 00:36:51.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Apr2025 00:36:51.714] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[20Apr2025 00:36:51.715] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[20Apr2025 00:40:40.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[20Apr2025 00:40:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[20Apr2025 00:40:47.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5686b210
+[20Apr2025 00:40:47.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:37623] logged in with entity id 24429 at (-258.37511787723423, 119.0, -790.6873138217694)
+[20Apr2025 00:40:47.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[20Apr2025 00:40:47.520] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 00:40:47.520] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[20Apr2025 00:40:47.520] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[20Apr2025 00:40:50.269] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 00:40:50.269] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 00:40:50.300] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 00:40:50.300] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
