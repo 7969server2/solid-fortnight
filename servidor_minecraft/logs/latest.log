@@ -3678,3 +3678,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 16:50:15.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Voluntary Exile]
 [20Apr2025 16:53:02.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
 [20Apr2025 16:53:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[20Apr2025 17:03:03.515] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d65cfbc
+[20Apr2025 17:03:03.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:48805] logged in with entity id 45339 at (-256.901185026429, 119.0, -834.8366667799055)
+[20Apr2025 17:03:03.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[20Apr2025 17:03:03.583] [Server thread/INFO] [Jade/]: Syncing config to infouni25 (a3fcb38a-3043-37b8-b12f-8616be1e78e0)
+[20Apr2025 17:03:03.583] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[20Apr2025 17:03:03.583] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[20Apr2025 17:03:09.814] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[20Apr2025 17:03:09.815] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 17:03:09.815] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[20Apr2025 17:03:09.815] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 17:03:23.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Fortuitous Militia]
