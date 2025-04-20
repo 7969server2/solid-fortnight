@@ -3640,3 +3640,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 15:54:15.111] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -217 Y: 125 Z: -776
 [20Apr2025 15:54:15.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata fell from a high place
 [20Apr2025 15:54:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [The Most Useful Key]
+[20Apr2025 16:07:16.063] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b53c96d
+[20Apr2025 16:07:16.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:58941] logged in with entity id 34622 at (-252.69999998807907, 116.88223176574532, -847.5114707004324)
+[20Apr2025 16:07:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[20Apr2025 16:07:16.113] [Server thread/INFO] [Jade/]: Syncing config to infouni25 (a3fcb38a-3043-37b8-b12f-8616be1e78e0)
+[20Apr2025 16:07:16.113] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[20Apr2025 16:07:16.114] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[20Apr2025 16:07:20.228] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[20Apr2025 16:07:20.228] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 16:07:20.228] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[20Apr2025 16:07:20.228] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 16:07:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> OE VAGO
+[20Apr2025 16:11:33.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> LA POLITZIIAA
+[20Apr2025 16:11:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> noooo
+[20Apr2025 16:11:46.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> NOOOOO}
+[20Apr2025 16:11:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> va tigre va
+[20Apr2025 16:12:00.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya casi
