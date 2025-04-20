@@ -3626,3 +3626,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Apr2025 04:13:36.278] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [20Apr2025 04:13:36.278] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [20Apr2025 04:13:36.279] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 04:56:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 04:57:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped 0 items
+[20Apr2025 04:58:38.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 04:58:38.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[20Apr2025 04:58:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 04:58:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cls<--[HERE]

@@ -11509,3 +11509,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Apr2025 04:44:09.970] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [20Apr2025 04:44:10.626] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [20Apr2025 04:44:11.021] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[20Apr2025 04:47:17.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 04:47:17.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 04:52:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 04:52:17.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 04:56:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 04:57:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 04:57:17.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 04:57:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped 0 items
+[20Apr2025 04:58:38.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 04:58:38.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[20Apr2025 04:58:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 04:58:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cls<--[HERE]
+[20Apr2025 05:02:17.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:02:17.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
