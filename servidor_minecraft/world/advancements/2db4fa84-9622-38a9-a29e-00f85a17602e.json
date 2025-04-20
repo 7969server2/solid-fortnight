@@ -2157,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-20 17:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 22:03:01 +0000"

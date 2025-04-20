@@ -6908,3 +6908,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 17:16:13.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 17:16:13.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Apr2025 17:17:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Hero of the Village]
+[20Apr2025 17:21:13.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 17:21:13.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 17:26:13.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 17:26:13.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
