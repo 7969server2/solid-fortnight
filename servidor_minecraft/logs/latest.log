@@ -3539,3 +3539,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 12:06:05.781] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [20Apr2025 12:06:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Apr2025 12:06:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[20Apr2025 12:15:34.706] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[20Apr2025 12:15:34.803] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a23e3c1
+[20Apr2025 12:15:34.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:39339] logged in with entity id 294 at (-254.59031718807026, 119.0, -785.919639727209)
+[20Apr2025 12:15:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[20Apr2025 12:15:34.950] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 12:15:34.953] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[20Apr2025 12:15:34.955] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[20Apr2025 12:15:38.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[20Apr2025 12:15:39.873] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 12:15:39.874] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 12:15:39.874] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 12:15:39.874] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
