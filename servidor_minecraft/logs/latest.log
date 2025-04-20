@@ -17,3 +17,18 @@
 [20Apr2025 00:40:50.300] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [20Apr2025 00:44:17.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [20Apr2025 00:44:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[20Apr2025 01:16:29.564] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,retraining:main] rejected their client side version number
+[20Apr2025 01:16:29.565] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Apr2025 01:16:29.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33a9b87b[id=<null>,name=infouni25,properties={},legacy=false] (/127.135.232.64:40975) lost connection: Connection closed - mismatched mod channel list
+[20Apr2025 01:16:40.115] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,retraining:main] rejected their client side version number
+[20Apr2025 01:16:40.116] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Apr2025 01:16:40.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b8ef52c[id=<null>,name=infouni25,properties={},legacy=false] (/127.135.232.64:55981) lost connection: Connection closed - mismatched mod channel list
+[20Apr2025 01:17:55.665] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,retraining:main] rejected their client side version number
+[20Apr2025 01:17:55.666] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Apr2025 01:17:55.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@152540ab[id=<null>,name=infouni25,properties={},legacy=false] (/127.135.232.64:43913) lost connection: Connection closed - mismatched mod channel list
+[20Apr2025 01:18:15.467] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,retraining:main] rejected their client side version number
+[20Apr2025 01:18:15.467] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Apr2025 01:18:15.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a87b53b[id=<null>,name=infouni25,properties={},legacy=false] (/127.135.232.64:49269) lost connection: Connection closed - mismatched mod channel list
+[20Apr2025 01:22:52.217] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,retraining:main] rejected their client side version number
+[20Apr2025 01:22:52.218] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Apr2025 01:22:52.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79baf4cd[id=<null>,name=infouni25,properties={},legacy=false] (/127.135.232.64:45347) lost connection: Connection closed - mismatched mod channel list
