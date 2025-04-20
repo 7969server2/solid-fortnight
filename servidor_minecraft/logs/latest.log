@@ -3668,3 +3668,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 16:36:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [20Apr2025 16:36:04.391] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
 [20Apr2025 16:36:04.393] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[20Apr2025 16:44:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> listo carajo
+[20Apr2025 16:46:16.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> mao al break
+[20Apr2025 16:46:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> vaom
+[20Apr2025 16:46:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> cacacac
+[20Apr2025 16:46:28.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[20Apr2025 16:46:28.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
