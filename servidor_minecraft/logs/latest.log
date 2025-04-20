@@ -3551,3 +3551,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 12:15:39.874] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [20Apr2025 12:15:39.874] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [20Apr2025 12:15:39.874] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 13:27:50.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[20Apr2025 13:27:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[20Apr2025 13:28:00.616] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5569d9d1
+[20Apr2025 13:28:00.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:59455] logged in with entity id 7299 at (-262.0223894459326, 119.0, -783.2114434009609)
+[20Apr2025 13:28:00.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[20Apr2025 13:28:00.637] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 13:28:00.637] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[20Apr2025 13:28:00.637] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[20Apr2025 13:28:02.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[20Apr2025 13:28:03.082] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 13:28:03.083] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 13:28:03.083] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 13:28:03.083] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 13:33:49.666] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11eb592f
+[20Apr2025 13:33:49.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.27.202.134:38755] logged in with entity id 8037 at (607.9644184998793, 65.0, 15.16298333745142)
+[20Apr2025 13:33:49.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[20Apr2025 13:33:49.686] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[20Apr2025 13:33:49.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[20Apr2025 13:33:49.687] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[20Apr2025 13:33:52.032] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[20Apr2025 13:33:52.032] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 13:33:52.032] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[20Apr2025 13:33:52.033] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 13:33:52.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[20Apr2025 13:34:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> TP
+[20Apr2025 13:34:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[20Apr2025 13:35:33.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=118, z=-770} BlockPos{x=-243, y=118, z=-771}
+[20Apr2025 13:35:33.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=118, z=-770} BlockPos{x=-243, y=118, z=-771}
