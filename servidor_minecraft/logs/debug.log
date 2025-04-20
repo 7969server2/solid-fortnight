@@ -11523,3 +11523,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Apr2025 04:58:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cls<--[HERE]
 [20Apr2025 05:02:17.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 05:02:17.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:07:17.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:07:17.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:12:17.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:12:17.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:13:13.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[20Apr2025 05:13:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Normal
+[20Apr2025 05:13:45.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[20Apr2025 05:13:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ifficulty 3.12<--[HERE]
