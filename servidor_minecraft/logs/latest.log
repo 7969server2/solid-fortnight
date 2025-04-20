@@ -3567,3 +3567,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Apr2025 03:07:40.016] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [20Apr2025 03:07:40.016] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [20Apr2025 03:07:40.016] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 04:12:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asd
+[20Apr2025 04:12:47.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ad
+[20Apr2025 04:12:47.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asds
+[20Apr2025 04:12:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> d
+[20Apr2025 04:12:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sad
+[20Apr2025 04:12:48.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ad
+[20Apr2025 04:12:48.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sa
+[20Apr2025 04:12:48.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ds
+[20Apr2025 04:12:48.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> d
+[20Apr2025 04:12:48.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ad
+[20Apr2025 04:12:48.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asd
+[20Apr2025 04:12:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> as
+[20Apr2025 04:12:48.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Kicked for spamming
+[20Apr2025 04:12:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[20Apr2025 04:12:48.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 04:12:55.349] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7168c1ac
+[20Apr2025 04:12:55.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:35877] logged in with entity id 72040 at (-275.5, 119.5625, -781.5)
+[20Apr2025 04:12:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[20Apr2025 04:12:55.362] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 04:12:55.362] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[20Apr2025 04:12:55.362] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[20Apr2025 04:12:57.169] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 04:12:57.169] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 04:12:57.169] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 04:12:57.169] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 04:13:00.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sa
+[20Apr2025 04:13:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> da
+[20Apr2025 04:13:01.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> da
+[20Apr2025 04:13:01.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> d
+[20Apr2025 04:13:03.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> a
+[20Apr2025 04:13:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> t
+[20Apr2025 04:13:16.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> rr
+[20Apr2025 04:13:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y
+[20Apr2025 04:13:19.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y
+[20Apr2025 04:13:19.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y
+[20Apr2025 04:13:20.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ht
+[20Apr2025 04:13:22.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:22.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:23.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:23.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:23.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> h
+[20Apr2025 04:13:23.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Kicked for spamming
+[20Apr2025 04:13:23.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[20Apr2025 04:13:34.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@439f8b4f
+[20Apr2025 04:13:34.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:56101] logged in with entity id 72287 at (-278.37276837967653, 119.0, -795.9661043556829)
+[20Apr2025 04:13:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[20Apr2025 04:13:34.510] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[20Apr2025 04:13:34.510] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[20Apr2025 04:13:34.511] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[20Apr2025 04:13:36.278] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 04:13:36.278] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Apr2025 04:13:36.278] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[20Apr2025 04:13:36.279] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
