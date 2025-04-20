@@ -3674,3 +3674,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 16:46:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> cacacac
 [20Apr2025 16:46:28.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
 [20Apr2025 16:46:28.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[20Apr2025 16:50:15.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Ambush]
+[20Apr2025 16:50:15.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Voluntary Exile]
+[20Apr2025 16:53:02.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[20Apr2025 16:53:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
