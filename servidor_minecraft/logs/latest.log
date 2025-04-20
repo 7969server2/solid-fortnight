@@ -3579,3 +3579,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [20Apr2025 13:34:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
 [20Apr2025 13:35:33.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=118, z=-770} BlockPos{x=-243, y=118, z=-771}
 [20Apr2025 13:35:33.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=118, z=-770} BlockPos{x=-243, y=118, z=-771}
+[20Apr2025 13:50:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 13:50:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
