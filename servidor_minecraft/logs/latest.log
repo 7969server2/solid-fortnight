@@ -3598,3 +3598,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08May2025 05:21:25.557] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmore:messages,mutantmore:advanced_animation_packets] rejected their client side version number
 [08May2025 05:21:25.557] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08May2025 05:21:25.582] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c549a24[id=<null>,name=tumamakalata,properties={},legacy=false] (/127.83.137.248:51491) lost connection: Connection closed - mismatched mod channel list
+[08May2025 05:28:32.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@bad05d3
+[08May2025 05:28:32.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:40269] logged in with entity id 7336 at (-289.5994771897752, 119.0, -775.3022720787852)
+[08May2025 05:28:32.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[08May2025 05:28:32.448] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[08May2025 05:28:32.448] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[08May2025 05:28:32.453] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[08May2025 05:28:36.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 10.167939013919295,5.10356015990962,-14.344640657182936
+[08May2025 05:28:36.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[08May2025 05:28:36.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> vabavbaba
+[08May2025 05:28:36.384] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[08May2025 05:28:36.384] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[08May2025 05:28:36.384] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[08May2025 05:28:36.384] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[08May2025 05:28:59.230] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmore:messages,mutantmore:advanced_animation_packets] rejected their client side version number
+[08May2025 05:28:59.230] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08May2025 05:28:59.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d89425[id=<null>,name=chipi,properties={},legacy=false] (/127.83.137.248:37277) lost connection: Connection closed - mismatched mod channel list
+[08May2025 05:30:29.972] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmore:messages,mutantmore:advanced_animation_packets] rejected their client side version number
+[08May2025 05:30:29.973] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08May2025 05:30:29.995] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49b977fb[id=<null>,name=chipi,properties={},legacy=false] (/127.83.137.248:56693) lost connection: Connection closed - mismatched mod channel list
+[08May2025 05:30:32.219] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmore:messages,mutantmore:advanced_animation_packets] rejected their client side version number
+[08May2025 05:30:32.219] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08May2025 05:30:32.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c5d3eee[id=<null>,name=chipi,properties={},legacy=false] (/127.83.137.248:32821) lost connection: Connection closed - mismatched mod channel list
+[08May2025 05:32:40.496] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2af2f49c
+[08May2025 05:32:40.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chipi[/127.83.137.248:45883] logged in with entity id 9997 at (4.5, 93.0, 4.5)
+[08May2025 05:32:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chipi joined the game
+[08May2025 05:32:40.547] [Server thread/INFO] [Jade/]: Syncing config to chipi (d58db356-aea4-33bb-a700-f3556ec0352b)
+[08May2025 05:32:40.548] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to chipi
+[08May2025 05:32:40.549] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to chipi
+[08May2025 05:32:45.319] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from chipi : SUCCESS
+[08May2025 05:32:45.319] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[08May2025 05:32:45.319] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from chipi : SUCCESS
+[08May2025 05:32:45.319] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[08May2025 05:33:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[08May2025 05:33:44.699] [Server thread/WARN] [tombstone/]: The death event of the player chipi was canceled by another mod
+[08May2025 05:33:44.708] [Server thread/INFO] [tombstone/]: The player chipi has successfully been saved
+[08May2025 05:33:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd quien es
+[08May2025 05:34:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chipi was slain by Spider
