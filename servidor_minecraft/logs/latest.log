@@ -3587,3 +3587,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08May2025 16:37:55.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 10.899049233009464,4.627150918199035,-13.455017007396236
 [08May2025 16:52:16.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
 [08May2025 16:53:17.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[08May2025 17:09:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Like a bird]

@@ -6035,3 +6035,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [08May2025 16:53:17.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
 [08May2025 16:56:57.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 16:56:57.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 17:01:57.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 17:01:57.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 17:06:57.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 17:06:57.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 17:09:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Like a bird]
