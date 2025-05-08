@@ -5554,6 +5554,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-08 17:09:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-05-02 03:13:10 +0000"
