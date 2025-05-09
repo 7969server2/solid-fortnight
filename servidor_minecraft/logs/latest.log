@@ -3579,3 +3579,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [09May2025 04:50:57.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [09May2025 04:59:02.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
 [09May2025 05:02:57.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[09May2025 05:21:25.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[09May2025 05:21:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[09May2025 05:21:25.421] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09May2025 05:22:47.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@726683fe
+[09May2025 05:22:47.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.199.4.163:47277] logged in with entity id 7211 at (-274.521097526132, 119.0, -768.5829736176529)
+[09May2025 05:22:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[09May2025 05:22:47.195] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[09May2025 05:22:47.195] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[09May2025 05:22:47.196] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[09May2025 05:22:49.266] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[09May2025 05:22:49.267] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[09May2025 05:22:49.267] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[09May2025 05:22:49.267] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[09May2025 05:22:49.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
