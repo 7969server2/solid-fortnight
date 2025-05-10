@@ -2997,6 +2997,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 06:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 17:57:42 +0000"
