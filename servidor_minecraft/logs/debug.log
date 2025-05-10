@@ -6026,3 +6026,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10May2025 06:46:02.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10May2025 06:51:03.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 06:51:03.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:55:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Vanishing]
+[10May2025 06:56:02.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 06:56:02.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 06:58:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Essence Gathering]
+[10May2025 07:00:08.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Bound by Essence]
+[10May2025 07:01:02.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 07:01:02.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

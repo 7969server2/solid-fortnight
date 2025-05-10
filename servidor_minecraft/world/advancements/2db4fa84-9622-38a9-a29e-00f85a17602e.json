@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/impregnated_bone_needle": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 06:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 17:57:42 +0000"
@@ -716,6 +722,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-19 23:18:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 06:55:24 +0000"
     },
     "done": true
   },
@@ -2958,6 +2970,12 @@
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-04-20 00:42:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/impregnated_receptacle": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 07:00:08 +0000"
     },
     "done": true
   },
