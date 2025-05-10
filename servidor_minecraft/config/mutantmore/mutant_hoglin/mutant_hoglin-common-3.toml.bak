@@ -1,4 +1,3 @@
-SPAWNING = {}
 
 [STATS]
 	"Experience Reward (default: 45)" = 45
@@ -63,4 +62,7 @@ SPAWNING = {}
 	"Enraged Speed Multiplier (end result is 1 + enragedAmount * this, default: 0.25)" = 0.25
 	"Enraged Damage Multiplier (end result is 1 + enragedAmount * this, default: 0.5)" = 0.5
 	"Enraged Knockback Multiplier (end result is 1 + enragedAmount * this, default: 0.5)" = 0.5
+
+[SPAWNING]
+	"Despawns (default: false)" = false
 
