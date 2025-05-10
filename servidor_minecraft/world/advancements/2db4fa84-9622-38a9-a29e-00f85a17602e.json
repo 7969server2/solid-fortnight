@@ -1803,6 +1803,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 17:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-17 17:22:49 +0000"
@@ -1998,6 +2004,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 17:08:07 +0000"
     },
     "done": true
   },
@@ -2880,6 +2892,12 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-05-03 17:43:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_smoke_ball": {
+    "criteria": {
+      "has_smoke_ball": "2025-05-09 17:14:28 +0000"
     },
     "done": true
   },
@@ -4651,6 +4669,12 @@
   "minecraft:recipes/travelersbackpack/sandstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-04-20 00:42:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-05-09 17:05:39 +0000"
     },
     "done": true
   },
