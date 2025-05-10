@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-05-10 18:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-26 17:13:16 +0000"
@@ -825,6 +831,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-05-03 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-05-10 18:46:27 +0000"
     },
     "done": true
   },
