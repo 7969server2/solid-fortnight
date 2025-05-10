@@ -1277,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-05-10 09:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-19 03:45:59 +0000"
@@ -2949,6 +2955,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-05-10 09:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-21 03:36:28 +0000"
@@ -3096,6 +3108,12 @@
   "tombstone:recipes/from_impregnated_diamond": {
     "criteria": {
       "has_ingredient": "2025-05-10 06:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-10 09:35:15 +0000"
     },
     "done": true
   },

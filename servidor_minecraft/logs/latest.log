@@ -3611,3 +3611,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10May2025 09:12:19.128] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
 [10May2025 09:12:19.128] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
 [10May2025 09:15:36.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [A Time for Misadventure]
+[10May2025 09:33:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Enchanted for Misadventure]
+[10May2025 09:34:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Fishy Business]
+[10May2025 09:35:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10May2025 09:35:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[10May2025 09:35:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10May2025 09:35:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
