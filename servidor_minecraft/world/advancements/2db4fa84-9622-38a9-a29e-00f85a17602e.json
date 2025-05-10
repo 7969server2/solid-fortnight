@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-10 08:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-17 18:17:02 +0000"
@@ -728,6 +734,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-19 03:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-10 08:26:14 +0000"
     },
     "done": true
   },
@@ -1121,6 +1133,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/color_smoke_ball": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 08:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
@@ -1262,6 +1280,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-21 03:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-10 08:26:14 +0000"
     },
     "done": true
   },
@@ -3183,6 +3207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-05-10 08:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-17 17:49:22 +0000"
@@ -3533,6 +3563,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-24 05:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-10 08:26:14 +0000"
     },
     "done": true
   },
@@ -4630,6 +4666,12 @@
     },
     "done": true
   },
+  "mutantmore:recipes/adaptive_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-05-10 08:30:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_reach": {
     "criteria": {
       "has_magic_scroll": "2025-05-03 00:35:32 +0000"
@@ -4651,6 +4693,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-17 18:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-10 08:26:14 +0000"
     },
     "done": true
   },
