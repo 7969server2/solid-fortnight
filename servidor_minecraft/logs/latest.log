@@ -5480,3 +5480,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10May2025 17:34:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> im going to the bath rum
 [10May2025 17:34:46.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> me avisas cuando quieras matar a felipe
 [10May2025 17:35:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> so
+[10May2025 17:38:38.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola nezuko
+[10May2025 17:38:40.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ahora mismo
+[10May2025 17:39:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd ola
+[10May2025 17:39:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> `````````*
+[10May2025 17:39:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ¡Hola!
+[10May2025 17:39:39.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> espera, princesa
+[10May2025 17:39:51.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> whad do you need
+[10May2025 17:40:11.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[10May2025 17:40:11.241] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[10May2025 17:40:11.249] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[10May2025 17:40:19.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[10May2025 17:40:31.200] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Syntho with unique ID 7bc8c0f6-d1bd-4d60-822d-6523ff14a736
+[10May2025 17:40:31.202] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -258 Y: 119 Z: -780
+[10May2025 17:40:31.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was slain by Ignis
+[10May2025 17:41:02.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[10May2025 17:41:02.046] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[10May2025 17:41:02.053] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[10May2025 17:41:06.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[10May2025 17:41:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ve a casa
+[10May2025 17:41:27.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[10May2025 17:41:27.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! 6.370424604345317,3.9369043638379537,-7.166914252191646
+[10May2025 17:41:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aaaaaa
+[10May2025 17:41:37.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> MAMI!!!!
+[10May2025 17:42:09.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[10May2025 17:42:09.797] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[10May2025 17:42:09.798] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[10May2025 17:42:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ay caramba omero
+[10May2025 17:42:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[10May2025 17:42:32.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[10May2025 17:42:32.592] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[10May2025 17:42:32.594] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[10May2025 17:42:35.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1130052, l='ServerLevel[world]', x=-278.61, y=119.00, z=-776.28] died, message: 'Toolsmith was killed by arturrssb using magic'
+[10May2025 17:42:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cuidado con los maldeanos
+[10May2025 17:42:53.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd si q caabroncillo pendejo de mi parte
+[10May2025 17:43:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> wait a sec
+[10May2025 17:43:29.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> estoy reparando mi mielda
+[10May2025 17:44:02.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bro no se te hace que ignus tuvo un glow up?
+[10May2025 17:45:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ez
+[10May2025 17:45:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> WHAT!!!!!!!!!
+[10May2025 17:45:52.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> and she stands there, singing for money
+[10May2025 17:45:57.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> lo invoco?
+[10May2025 17:46:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> quieres ver mi gran actuacion estelar matando a ignacio perez?
+[10May2025 17:46:09.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> yesil
+[10May2025 17:46:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> invocalo!
+[10May2025 17:46:17.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> puta!!!!!!
+[10May2025 17:46:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> es broma
+[10May2025 17:46:34.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd ya me iba a sair
