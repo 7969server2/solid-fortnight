@@ -3754,6 +3754,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-05-10 18:57:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_treasure": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 18:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
