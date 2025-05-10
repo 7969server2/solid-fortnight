@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2025-05-10 06:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-04-19 03:55:24 +0000"
@@ -2802,6 +2808,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 06:08:46 +0000"
     },
     "done": true
   },
