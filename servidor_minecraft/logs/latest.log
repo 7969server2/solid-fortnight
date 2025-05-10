@@ -5431,3 +5431,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10May2025 17:20:12.670] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-21147, y=128, z=-17090} but found not block entity block Block{minecraft:air} at location
 [10May2025 17:20:12.670] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-21147, y=128, z=-17090}
 [10May2025 17:22:34.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[10May2025 17:27:48.362] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmore:messages,mutantmore:advanced_animation_packets] rejected their client side version number
+[10May2025 17:27:48.363] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10May2025 17:27:48.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@534ecaa8[id=<null>,name=Syntho,properties={},legacy=false] (/127.213.240.40:35719) lost connection: Connection closed - mismatched mod channel list
+[10May2025 17:29:45.823] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mutantmore:messages,mutantmore:advanced_animation_packets] rejected their client side version number
+[10May2025 17:29:45.824] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10May2025 17:29:45.839] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51f76090[id=<null>,name=Syntho,properties={},legacy=false] (/127.213.240.40:54883) lost connection: Connection closed - mismatched mod channel list
+[10May2025 17:31:38.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2cb8924b
+[10May2025 17:31:38.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:40491] logged in with entity id 1121570 at (-1071.233621583299, 45.0, 341.30000001192093)
+[10May2025 17:31:38.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[10May2025 17:31:38.180] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[10May2025 17:31:38.180] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[10May2025 17:31:38.181] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[10May2025 17:31:41.254] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[10May2025 17:31:41.254] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10May2025 17:31:41.254] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[10May2025 17:31:41.254] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10May2025 17:31:44.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> HOLA!!!!!!!!
+[10May2025 17:31:47.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> SANTO CIELO!!! UN SKIBIDI TOILET
+[10May2025 17:31:52.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> so
+[10May2025 17:31:53.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola bro
+[10May2025 17:32:02.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> guasap
+[10May2025 17:32:03.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> puedo jugar hasta las 12:34 pq me voy a jugar roblox
+[10May2025 17:32:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> esta bien entiendo que me odies
+[10May2025 17:32:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> era una broma tio
+[10May2025 17:32:18.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[10May2025 17:32:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> matamos a ignacio?
+[10May2025 17:33:18.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lllllllllles
+[10May2025 17:33:26.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ahora lo puedo matar con una mano
+[10May2025 17:33:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> linda espada, madre................................
+[10May2025 17:33:45.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[10May2025 17:33:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> si te sirve el aldeano que consegui o me vas a tumbar los dientes?
+[10May2025 17:34:08.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd esta bien
+[10May2025 17:34:09.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[10May2025 17:34:09.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[10May2025 17:34:14.751] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fb5bc54
+[10May2025 17:34:14.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:60767] logged in with entity id 1122324 at (-289.0576822504176, 119.0, -777.2205393911073)
+[10May2025 17:34:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[10May2025 17:34:14.768] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[10May2025 17:34:14.768] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[10May2025 17:34:14.768] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[10May2025 17:34:17.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[10May2025 17:34:17.309] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10May2025 17:34:17.309] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10May2025 17:34:17.370] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10May2025 17:34:17.370] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10May2025 17:34:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[10May2025 17:34:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> im going to the bath rum
+[10May2025 17:34:46.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> me avisas cuando quieras matar a felipe
+[10May2025 17:35:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> so
