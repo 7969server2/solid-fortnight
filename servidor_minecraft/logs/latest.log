@@ -3578,3 +3578,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10May2025 07:41:22.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Surge Protector]
 [10May2025 07:41:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Let The Magic Happen]
 [10May2025 07:52:31.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[10May2025 08:12:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[10May2025 08:12:54.121] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[10May2025 08:12:54.121] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[10May2025 08:13:04.271] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID ff4cba40-c46b-4d90-b591-f906c52f1e19
+[10May2025 08:13:04.273] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -277 Y: 119 Z: -767
+[10May2025 08:13:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb fell from a high place
+[10May2025 08:13:22.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [The Most Useful Key]
+[10May2025 08:13:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [A Fast Comeback]
+[10May2025 08:16:53.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Subterfuge & Discretion]
+[10May2025 08:17:52.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Not of Chocolate]
+[10May2025 08:20:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Tomb Bound]

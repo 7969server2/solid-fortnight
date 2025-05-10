@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 08:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 20:05:36 +0000"
@@ -2613,6 +2619,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/subterfuge_and_discretion": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 08:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-17 18:13:45 +0000"
@@ -3770,6 +3782,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 08:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-04-18 01:33:19 +0000"
@@ -4780,6 +4798,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-10 08:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-17 17:25:02 +0000"
@@ -5563,6 +5587,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-05-03 03:36:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-05-10 08:17:52 +0000"
     },
     "done": true
   },
