@@ -3595,3 +3595,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10May2025 08:34:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10May2025 08:34:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wp config<--[HERE]
 [10May2025 08:49:22.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Francisco'/18768, l='ServerLevel[world]', x=-87.33, y=-51.00, z=-680.12] died: Francisco hit the ground too hard
+[10May2025 08:57:39.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[10May2025 08:57:39.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[10May2025 08:57:54.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35082179
+[10May2025 08:57:54.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.52.122.101:48061] logged in with entity id 20456 at (-272.5468764631394, 119.0, -753.4595331156487)
+[10May2025 08:57:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[10May2025 08:57:54.039] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[10May2025 08:57:54.040] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[10May2025 08:57:54.041] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[10May2025 08:57:56.830] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10May2025 08:57:56.830] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10May2025 08:57:56.878] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10May2025 08:57:56.878] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
