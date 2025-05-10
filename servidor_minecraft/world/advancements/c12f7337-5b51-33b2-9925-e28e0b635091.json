@@ -768,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-10 18:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-03 00:11:09 +0000"
@@ -846,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-10 18:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-04 18:14:37 +0000"
@@ -903,6 +915,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-03 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-05-10 18:53:30 +0000"
     },
     "done": true
   },
@@ -1400,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-10 18:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-03 18:06:33 +0000"
@@ -1409,6 +1433,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-03 20:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-10 18:49:05 +0000"
     },
     "done": true
   },
@@ -1801,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-10 18:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 05:45:07 +0000"
@@ -1888,6 +1924,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-05-10 18:51:21 +0000"
     },
     "done": true
   },
@@ -2152,6 +2194,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-05 01:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-10 18:49:22 +0000"
     },
     "done": true
   },
@@ -2617,6 +2665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-10 18:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-26 17:12:51 +0000"
@@ -2839,6 +2893,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-05-10 18:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 22:43:40 +0000"
@@ -2920,6 +2980,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-04 18:45:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_village": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 18:55:00 +0000"
     },
     "done": true
   },
