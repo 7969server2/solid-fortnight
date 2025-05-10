@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "phantom": "2025-05-10 17:15:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
@@ -1016,6 +1022,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-17 17:45:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_membrane": {
+    "criteria": {
+      "membrane": "2025-05-10 17:15:45 +0000"
     },
     "done": true
   },
@@ -2453,7 +2465,8 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
-      "otherside_deeplands": "2025-05-10 17:09:19 +0000"
+      "otherside_deeplands": "2025-05-10 17:09:19 +0000",
+      "overcast_columns": "2025-05-10 17:12:17 +0000"
     },
     "done": false
   },
@@ -3410,6 +3423,7 @@
       "minecraft:wither": "2025-04-19 23:22:08 +0000",
       "minecraft:evoker": "2025-04-20 17:07:45 +0000",
       "minecraft:slime": "2025-04-21 03:54:27 +0000",
+      "minecraft:phantom": "2025-05-10 17:15:37 +0000",
       "minecraft:zombified_piglin": "2025-05-02 00:29:24 +0000",
       "minecraft:witch": "2025-04-20 17:04:56 +0000",
       "minecraft:wither_skeleton": "2025-04-18 22:42:25 +0000",
