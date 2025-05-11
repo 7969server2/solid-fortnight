@@ -4792,3 +4792,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11May2025 05:22:04.034] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11May2025 05:22:04.034] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [11May2025 05:22:04.034] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11May2025 05:31:32.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[11May2025 05:31:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[11May2025 05:31:32.750] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 05:32:40.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3712bcea
+[11May2025 05:32:40.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.52.122.101:56773] logged in with entity id 635194 at (-280.6101931068069, 119.0, -768.6885097602704)
+[11May2025 05:32:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[11May2025 05:32:40.811] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[11May2025 05:32:40.811] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[11May2025 05:32:40.812] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[11May2025 05:32:42.770] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[11May2025 05:32:42.770] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11May2025 05:32:42.771] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[11May2025 05:32:42.771] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11May2025 05:34:34.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 10.919450608602347,69.0,-13.0
