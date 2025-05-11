@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_tiles": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"
@@ -1031,6 +1037,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_brick_slab": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/obtain_membrane": {
     "criteria": {
       "membrane": "2025-05-10 17:15:45 +0000"
@@ -1040,6 +1052,12 @@
   "minecraft:recipes/travelersbackpack/redstone_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_brick_stairs": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
     },
     "done": true
   },
@@ -2217,6 +2235,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_stairs": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-17 18:58:19 +0000"
@@ -2316,6 +2340,12 @@
   "minecraft:recipes/travelersbackpack/quartz_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/deeperdarker/sculk_stone_brick_slab_from_sculk_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
     },
     "done": true
   },
@@ -2460,6 +2490,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-21 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sculk_stone": {
+    "criteria": {
+      "sculk_stone": "2025-05-11 05:13:24 +0000"
     },
     "done": true
   },
@@ -2767,6 +2803,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-17 17:23:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_brick_wall": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
     },
     "done": true
   },
@@ -3208,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/deeperdarker/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/ghast_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-04-20 00:42:34 +0000"
@@ -3223,6 +3271,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-17 18:18:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
     },
     "done": true
   },
@@ -5208,6 +5262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/deeperdarker/sculk_stone_brick_wall_from_sculk_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pig_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
@@ -5436,6 +5496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/deeperdarker/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-21 03:54:52 +0000"
@@ -5529,6 +5595,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-17 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_wall": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
     },
     "done": true
   },
@@ -5688,6 +5760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/deeperdarker/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cactus_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
@@ -5703,6 +5781,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-04-19 03:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/deeperdarker/sculk_stone_brick_stairs_from_sculk_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_sculk_stone_bricks": "2025-05-11 05:14:23 +0000"
     },
     "done": true
   },
@@ -5871,6 +5955,12 @@
   "tombstone:adventure/use_feather_fall": {
     "criteria": {
       "has_magic_scroll": "2025-05-08 17:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/deeperdarker/sculk_stone_from_smelting_cobbled_sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-05-11 05:13:24 +0000"
     },
     "done": true
   },
