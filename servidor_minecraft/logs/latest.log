@@ -3632,3 +3632,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 03:23:35.769] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [12May2025 04:06:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [12May2025 04:06:50.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[12May2025 04:14:12.057] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2adf190a
+[12May2025 04:14:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The player ABICHOTA has successfully been loaded
+[12May2025 04:16:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are no custom bossbars active
+[12May2025 04:17:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12May2025 04:17:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tb unpack<--[HERE]
+[12May2025 04:18:01.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[12May2025 04:24:58.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -11.905325968002671,0.7115602486016428,-1.635461723516073
+[12May2025 04:26:48.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -0.9301697382963994,0.4406804734802421,10.388136291770934
