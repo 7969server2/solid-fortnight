@@ -3620,3 +3620,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 03:11:25.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> GG
 [12May2025 03:12:20.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
 [12May2025 03:12:20.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[12May2025 03:23:33.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@508f6a7d
+[12May2025 03:23:33.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:59373] logged in with entity id 59195 at (-288.1444240466256, 119.0, -767.407558422587)
+[12May2025 03:23:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[12May2025 03:23:33.726] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[12May2025 03:23:33.726] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[12May2025 03:23:33.726] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[12May2025 03:23:35.769] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[12May2025 03:23:35.769] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12May2025 03:23:35.769] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[12May2025 03:23:35.769] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
