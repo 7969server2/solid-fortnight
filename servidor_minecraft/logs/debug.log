@@ -6603,3 +6603,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 04:38:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: magic_book - tombstone
 [12May2025 04:38:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: necklace - artifacts
 [12May2025 04:38:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bundle - tombstone
+[12May2025 04:39:10.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 9.616621320768672,-0.016394712540801493,4.177805505053584
+[12May2025 04:39:11.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 0.0,-11.203605334791263,0.0
+[12May2025 04:41:02.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:41:02.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:41:11.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[12May2025 04:41:37.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12May2025 04:41:37.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: w<--[HERE]
+[12May2025 04:42:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[12May2025 04:46:02.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:46:02.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:46:51.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97009, l='ServerLevel[world]', x=-1492.70, y=71.00, z=-2207.30] died, message: 'Villager was slain by Zombie'
+[12May2025 04:51:02.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:51:02.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:56:02.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:56:02.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
