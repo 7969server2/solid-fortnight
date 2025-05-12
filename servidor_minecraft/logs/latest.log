@@ -3612,3 +3612,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 02:52:29.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> EL BARRIDO PQ SIRVE
 [12May2025 02:52:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> para hacer mas daño en area
 [12May2025 02:52:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nos sirve mucho
+[12May2025 03:01:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> un toq
+[12May2025 03:01:08.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[12May2025 03:01:08.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
