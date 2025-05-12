@@ -3793,3 +3793,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 04:46:51.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97009, l='ServerLevel[world]', x=-1492.70, y=71.00, z=-2207.30] died, message: 'Villager was slain by Zombie'
 [12May2025 05:06:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
 [12May2025 05:18:17.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[12May2025 05:19:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12May2025 05:19:18.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fill<--[HERE]
+[12May2025 05:19:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown block type 'travelersbackpack:travelers_backpack_tile'
+[12May2025 05:19:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... ~10 ~100 travelersbackpack:travelers_backpack_tile replace<--[HERE]
+[12May2025 05:24:29.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[12May2025 05:24:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[12May2025 05:24:29.453] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
