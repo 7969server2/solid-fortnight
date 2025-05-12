@@ -1,7 +1,7 @@
 
 [STATS]
 	"Experience Reward (default: 40)" = 40
-	"Max Health (default: 200)" = 200.0
+	"Max Health (default: 200)" = 1000.0
 	"Movement Speed (default: 0.27)" = 0.27
 	"Crouching Movement Speed Decrease (default: 0.05)" = 0.05
 	"Knockback Resistance (default: 1)" = 1.0
@@ -9,25 +9,25 @@
 	"Armour Toughness Value (default: 0)" = 0.0
 	"Target Players Distance (default: 64)" = 64.0
 	"Target Mobs Distance (default: 15)" = 15.0
-	"Melee Attack Damage (default: 8)" = 8.0
+	"Melee Attack Damage (default: 8)" = 18.0
 	"Melee Attack Knockback (default: 0.2)" = 0.2
 	"Melee Attack Health Leeched (default: 4)" = 4.0
 	"Melee Attack Wither Effect Duration (in ticks, default: 200)" = 200
 	"Melee Attack Wither Effect Level (default: 0)" = 0
-	"Rib Crush Attack Damage (default: 16)" = 16.0
+	"Rib Crush Attack Damage (default: 16)" = 20.0
 	"Rib Crush Attack Health Leeched (default: 16)" = 16.0
 	"Rib Crush Attack Disable Shields Duration (in ticks, default: 100)" = 100
 	"Rib Crush Attack Wither Effect Duration (in ticks, default: 150)" = 150
 	"Rib Crush Attack Wither Effect Level (default: 2)" = 2
-	"Wither Slash Damage (default: 6)" = 6.0
+	"Wither Slash Damage (default: 6)" = 12.0
 	"Wither Slash Health Leeched (default: 4)" = 4.0
 	"Wither Slash Wither Effect Duration (in ticks, default: 300)" = 300
 	"Wither Slash Wither Effect Level (default: 0)" = 0
-	"Big Wither Slash Damage (default: 16)" = 16.0
+	"Big Wither Slash Damage (default: 16)" = 20.0
 	"Big Wither Slash Health Leeched (default: 12)" = 12.0
 	"Big Wither Slash Wither Effect Duration (in ticks, default: 300)" = 300
 	"Big Wither Slash Wither Effect Level (default: 0)" = 0
-	"Block Ability Damage (default: 4)" = 4.0
+	"Block Ability Damage (default: 4)" = 10.0
 	"Block Ability Slowness Effect Duration (in ticks, default: 100)" = 100
 	"Block Ability Slowness Effect Level (default: 3)" = 3
 	"Lunge Attack Damage (default: 20)" = 20.0

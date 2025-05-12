@@ -12,7 +12,7 @@
 
 [STATS]
 	"Experience Reward (default: 45)" = 45
-	"Max Health (default: 250)" = 250.0
+	"Max Health (default: 250)" = 1000.0
 	"Movement Speed (default: 0.28)" = 0.28
 	"Knockback Resistance (default: 1)" = 1.0
 	"Armour Value (default: 12)" = 12.0
@@ -20,17 +20,17 @@
 	"Target Players Range (in blocks, default: 64)" = 64.0
 	"Target Mobs Range (in blocks, default: 20)" = 15.0
 	"Melee Attack Knockback (default: 1.75)" = 1.75
-	"Melee Attack Damage (default: 8)" = 8.0
-	"Stomp Attack Damage (default: 4)" = 4.0
+	"Melee Attack Damage (default: 8)" = 18.0
+	"Stomp Attack Damage (default: 4)" = 10.0
 	"Stomp Attack Range (in blocks, default: 25)" = 25.0
 	"Stomp Attack Falling Block Damage (default: 10)" = 10.0
-	"Charge Attack Damage (default: 14)" = 14.0
+	"Charge Attack Damage (default: 14)" = 22.0
 	"Charge Attack Disable Shields Duration (in ticks, default: 200)" = 200
-	"Kick Attack Damage (default: 18)" = 18.0
+	"Kick Attack Damage (default: 18)" = 25.0
 	"Kick Attack Disable Shields Duration (in ticks, default: 300)" = 300
 	"Kick Attack Slowness Effect Duration (in ticks, default: 100)" = 100
 	"Kick Attack Slowness Effect Level (default: 2)" = 2
-	"Death Damage (default: 16)" = 16.0
+	"Death Damage (default: 16)" = 20.0
 	"Death Range (in blocks, default: 30)" = 30.0
 	"Death Falling Block Damage (default: 14)" = 14.0
 	"Attacks Ignore Hurt Invulnerability (default: true)" = true

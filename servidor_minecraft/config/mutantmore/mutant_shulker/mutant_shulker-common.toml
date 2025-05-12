@@ -8,7 +8,7 @@
 	#
 	# The Mutant Shulker's max health
 	# usually set to 300
-	"Max Health" = 300.0
+	"Max Health" = 1000.0
 	#
 	# The Mutant Shulker's movement speed
 	# usually set to 0.275D
@@ -40,7 +40,7 @@
 	#
 	# The damage dealt to mobs caught in the explosion caused when a Mutant Shulker Bullet fired by the Mutant Shulker collides with blocks or mobs
 	# usually set to 8.0
-	"Mutant Shulker Bullet Damage" = 8.0
+	"Mutant Shulker Bullet Damage" = 16.0
 	#
 	# The amount of times that a Mutant Shulker Bullet fired by the Mutant Shulker can be hit before it is destroyed
 	# usually set to 3
@@ -48,7 +48,7 @@
 	#
 	# The size of explosions caused when Mutant Shulker Bullets fired by the Mutant Shulker collide with blocks or mobs
 	# usually set to 2.0
-	"Mutant Shulker Bullet Explosion Size" = 2.0
+	"Mutant Shulker Bullet Explosion Size" = 4.0
 	#
 	# The length in ticks that the Levitation effect is applied to mobs hit by Mutant Shulker Bullets fired by the Mutant Shulker for
 	# usually set to 100
@@ -60,7 +60,7 @@
 	#
 	# The damage that the Mutant Shulker's bite attack deals
 	# usually set to 25.0
-	"Bite Damage" = 25.0
+	"Bite Damage" = 30.0
 	#
 	# The amount of time in ticks that the Mutant Shulker disables its target's Shield for if they block its bite attack
 	# usually set to
@@ -68,7 +68,7 @@
 	#
 	# The damage that the Mutant Shulker deals when flying into mobs
 	# usually set to 10.0
-	"Fly Damage" = 10.0
+	"Fly Damage" = 20.0
 	#
 	# The damage that the Mutant Shulker's anvil crush attack deals
 	# usually set to 30.0

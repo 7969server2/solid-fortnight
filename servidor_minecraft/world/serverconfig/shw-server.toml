@@ -10,5 +10,5 @@ shw_is_dimensional_travel_allowed_for_waypoints = true
 shw_waypoints_cooldown = 5
 #Maximum number of waypoints by player
 #Range: 0 ~ 100
-shw_maximum_number_of_waypoints = 20
+shw_maximum_number_of_waypoints = 30
 

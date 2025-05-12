@@ -90,7 +90,7 @@
 		durability = 0
 		#Cooldown (in ticks) before the item can be eaten again
 		#Range: > 0
-		cooldown = 300
+		cooldown = 200
 		#Time (in ticks) it takes to eat this item
 		#Range: > 0
 		use_duration = 32
@@ -102,7 +102,7 @@
 		durability = 0
 		#Cooldown (in ticks) before the item can be eaten again
 		#Range: > 0
-		cooldown = 300
+		cooldown = 200
 		#Time (in ticks) it takes to eat this item
 		#Range: > 0
 		use_duration = 32

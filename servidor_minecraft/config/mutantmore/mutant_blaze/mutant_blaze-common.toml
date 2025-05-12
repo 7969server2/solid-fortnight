@@ -1,25 +1,25 @@
 
 [STATS]
 	"Experience Reward (default: 50)" = 50
-	"Max Health (default: 250)" = 250.0
+	"Max Health (default: 250)" = 1000.0
 	"Movement Speed (default: 0.25)" = 0.25
 	"Fly Sideways Speed (default: 0.2)" = 0.2
 	"Fly Sideways Change Direction Speed (default: 0.004)" = 0.004
 	"Fly Forwards/Backwards Speed (default: 0.25)" = 0.25
 	"Fly Upwards Speed (default: 0.1)" = 0.1
 	"Knockback Resistance (default: 1)" = 1.0
-	"Armour Value (default: 10)" = 10.0
+	"Armour Value (default: 10)" = 20.0
 	"Armour Toughness Value (default: 0)" = 0.0
 	"Target Players Range (in blocks, default: 64)" = 64.0
 	"Target Mobs Range (in blocks, default: 25)" = 25.0
-	"Fireball Damage (default: 12)" = 12.0
-	"Fireball Explosion Damage (default: 10)" = 10.0
-	"Fireball Explosion Size (default: 3)" = 3.0
+	"Fireball Damage (default: 12)" = 20.0
+	"Fireball Explosion Damage (default: 10)" = 20.0
+	"Fireball Explosion Size (default: 3)" = 5.0
 	"Fireball Fire Duration (in seconds, default: 5)" = 5
-	"Rod Projectile Damage (default: 4)" = 4.0
-	"Rod Projectile Fire Duration (in seconds, default: 3)" = 3
+	"Rod Projectile Damage (default: 4)" = 10.0
+	"Rod Projectile Fire Duration (in seconds, default: 3)" = 5
 	"Can Be Stunned (default: true)" = true
-	"Stun Shockwave Damage (default: 20)" = 20.0
+	"Stun Shockwave Damage (default: 20)" = 30.0
 	"Stun Shockwave Fire Duration (in seconds, default: 7)" = 7
 	"Stun Shockwave Disable Shields Duration (in ticks, default: 100)" = 100
 	"Stun Shockwave Range (default: 7.5)" = 7.5
