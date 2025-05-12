@@ -3792,3 +3792,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 04:42:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
 [12May2025 04:46:51.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97009, l='ServerLevel[world]', x=-1492.70, y=71.00, z=-2207.30] died, message: 'Villager was slain by Zombie'
 [12May2025 05:06:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[12May2025 05:18:17.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
