@@ -6421,3 +6421,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [12May2025 03:23:35.769] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [12May2025 03:26:02.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 03:26:02.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 03:31:02.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 03:31:02.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 03:36:02.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 03:36:02.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 03:41:02.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 03:41:02.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 03:46:02.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 03:46:02.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
